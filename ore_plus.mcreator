@@ -12835,7 +12835,8 @@
           "src/main/resources/assets/ore_plus/models/item/silver_armor_helmet.json",
           "src/main/resources/assets/ore_plus/models/item/silver_armor_boots.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "SilverHelmetRecipe",
@@ -12847,7 +12848,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/silver_helmet_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "SilverChestplateRecipe",
@@ -12859,7 +12861,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/silver_chestplate_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "SilverLeggingsRecipe",
@@ -12871,7 +12874,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/silver_leggings_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "SilverBootsRecipe",
@@ -12883,7 +12887,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/silver_boots_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "NickelArmor",
@@ -12899,7 +12904,8 @@
           "src/main/resources/assets/ore_plus/models/item/nickel_armor_helmet.json",
           "src/main/resources/assets/ore_plus/models/item/nickel_armor_chestplate.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "NickelHelmetRecipe",
@@ -12911,7 +12917,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/nickel_helmet_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "NickelChestplateRecipe",
@@ -12923,7 +12930,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/nickel_chestplate_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "NickelLeggingsRecipe",
@@ -12935,7 +12943,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/nickel_leggings_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "NickelBootsRecipe",
@@ -12947,7 +12956,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/nickel_boots_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "GadoliniumArmor",
@@ -12963,7 +12973,8 @@
           "src/main/resources/assets/ore_plus/models/item/gadolinium_armor_leggings.json",
           "src/main/resources/assets/ore_plus/models/item/gadolinium_armor_boots.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "GadoliniumHelmetRecipe",
@@ -12975,7 +12986,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/gadolinium_helmet_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "GadoliniumChestplateRecipe",
@@ -12987,7 +12999,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/gadolinium_chestplate_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "GadoliniumLeggingsRecipe",
@@ -12999,7 +13012,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/gadolinium_leggings_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "GadoliniumBootsRecipe",
@@ -13011,7 +13025,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/gadolinium_boots_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumSword",
@@ -13024,7 +13039,8 @@
           "src/main/resources/assets/ore_plus/models/item/chromium_sword.json",
           "src/main/java/oreplus/item/ChromiumSwordItem.java"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumPickaxe",
@@ -13037,7 +13053,8 @@
           "src/main/java/oreplus/item/ChromiumPickaxeItem.java",
           "src/main/resources/assets/ore_plus/models/item/chromium_pickaxe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumAxe",
@@ -13050,7 +13067,8 @@
           "src/main/resources/assets/ore_plus/models/item/chromium_axe.json",
           "src/main/java/oreplus/item/ChromiumAxeItem.java"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumShovel",
@@ -13063,7 +13081,8 @@
           "src/main/resources/assets/ore_plus/models/item/chromium_shovel.json",
           "src/main/java/oreplus/item/ChromiumShovelItem.java"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumHoe",
@@ -13076,7 +13095,8 @@
           "src/main/java/oreplus/item/ChromiumHoeItem.java",
           "src/main/resources/assets/ore_plus/models/item/chromium_hoe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumSwordRecipe",
@@ -13088,7 +13108,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/chromium_sword_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumPickaxeRecipe",
@@ -13100,7 +13121,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/chromium_pickaxe_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumAxeRecipe",
@@ -13112,7 +13134,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/chromium_axe_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumShovelRecipe",
@@ -13124,7 +13147,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/chromium_shovel_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "ChromiumHoeRecipe",
@@ -13136,7 +13160,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/chromium_hoe_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeArmor",
@@ -13152,7 +13177,8 @@
           "src/main/resources/assets/ore_plus/models/item/bronze_armor_chestplate.json",
           "src/main/resources/assets/ore_plus/models/item/bronze_armor_boots.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeHelmetRecipe",
@@ -13164,7 +13190,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_helmet_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeChestplateRecipe",
@@ -13176,7 +13203,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_chestplate_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeLeggingsRecipe",
@@ -13188,7 +13216,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_leggings_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeBootsRecipe",
@@ -13200,7 +13229,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_boots_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeSword",
@@ -13213,7 +13243,8 @@
           "src/main/java/oreplus/item/BronzeSwordItem.java",
           "src/main/resources/assets/ore_plus/models/item/bronze_sword.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzePickaxe",
@@ -13226,7 +13257,8 @@
           "src/main/resources/assets/ore_plus/models/item/bronze_pickaxe.json",
           "src/main/java/oreplus/item/BronzePickaxeItem.java"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeAxe",
@@ -13239,7 +13271,8 @@
           "src/main/java/oreplus/item/BronzeAxeItem.java",
           "src/main/resources/assets/ore_plus/models/item/bronze_axe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeShovel",
@@ -13252,7 +13285,8 @@
           "src/main/java/oreplus/item/BronzeShovelItem.java",
           "src/main/resources/assets/ore_plus/models/item/bronze_shovel.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeHoe",
@@ -13265,7 +13299,8 @@
           "src/main/java/oreplus/item/BronzeHoeItem.java",
           "src/main/resources/assets/ore_plus/models/item/bronze_hoe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeSwordRecipe",
@@ -13277,7 +13312,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_sword_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzePickaxeRecipe",
@@ -13289,7 +13325,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_pickaxe_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeAxeRecipe",
@@ -13301,7 +13338,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_axe_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeShovelRecipe",
@@ -13313,7 +13351,8 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_shovel_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
     },
     {
       "name": "BronzeHoeRecipe",
@@ -13325,7 +13364,416 @@
         "files": [
           "src/main/resources/data/ore_plus/recipes/bronze_hoe_recipe.json"
         ]
-      }
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/tin_armor_leggings.json",
+          "src/main/resources/assets/ore_plus/models/item/tin_armor_helmet.json",
+          "src/main/resources/assets/ore_plus/models/item/tin_armor_chestplate.json",
+          "src/main/resources/assets/ore_plus/models/item/tin_armor_boots.json",
+          "src/main/java/oreplus/item/TinArmorItem.java"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinHelmetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_helmet_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinChestplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinLeggingsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_leggings_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinBootsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_boots_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/TinSwordItem.java",
+          "src/main/resources/assets/ore_plus/models/item/tin_sword.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/tin_pickaxe.json",
+          "src/main/java/oreplus/item/TinPickaxeItem.java"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/tin_axe.json",
+          "src/main/java/oreplus/item/TinAxeItem.java"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/tin_shovel.json",
+          "src/main/java/oreplus/item/TinShovelItem.java"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/tin_hoe.json",
+          "src/main/java/oreplus/item/TinHoeItem.java"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_sword_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_axe_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_shovel_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "TinHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_hoe_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/ZincArmorItem.java",
+          "src/main/resources/assets/ore_plus/models/item/zinc_armor_chestplate.json",
+          "src/main/resources/assets/ore_plus/models/item/zinc_armor_boots.json",
+          "src/main/resources/assets/ore_plus/models/item/zinc_armor_leggings.json",
+          "src/main/resources/assets/ore_plus/models/item/zinc_armor_helmet.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincHelmetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_helmet_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincChestplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincLeggingsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_leggings_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincBootsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_boots_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/ZincSwordItem.java",
+          "src/main/resources/assets/ore_plus/models/item/zinc_sword.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/ZincPickaxeItem.java",
+          "src/main/resources/assets/ore_plus/models/item/zinc_pickaxe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/ZincAxeItem.java",
+          "src/main/resources/assets/ore_plus/models/item/zinc_axe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/zinc_shovel.json",
+          "src/main/java/oreplus/item/ZincShovelItem.java"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/ZincHoeItem.java",
+          "src/main/resources/assets/ore_plus/models/item/zinc_hoe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_sword_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_axe_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_shovel_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
+    },
+    {
+      "name": "ZincHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/zinc_hoe_recipe.json"
+        ]
+      },
+      "path": "~/0.1.2"
     }
   ],
   "variable_elements": [],
@@ -13573,6 +14021,8 @@
       "~CUSTOM:SulfurOre"
     ],
     "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:ZincPickaxe",
+      "~CUSTOM:TinPickaxe",
       "~CUSTOM:BronzePickaxe",
       "~CUSTOM:ChromiumPickaxe",
       "~CUSTOM:PyralitePickaxe",
@@ -13609,6 +14059,8 @@
       "~CUSTOM:TitaniumPickaxe"
     ],
     "ITEMS:minecraft:axes": [
+      "~CUSTOM:ZincAxe",
+      "~CUSTOM:TinAxe",
       "~CUSTOM:BronzeAxe",
       "~CUSTOM:ChromiumAxe",
       "~CUSTOM:PyraliteAxe",
@@ -13643,6 +14095,8 @@
       "~CUSTOM:TitaniumAxe"
     ],
     "ITEMS:minecraft:hoes": [
+      "~CUSTOM:ZincHoe",
+      "~CUSTOM:TinHoe",
       "~CUSTOM:BronzeHoe",
       "~CUSTOM:ChromiumHoe",
       "~CUSTOM:PyraliteHoe",
@@ -13675,6 +14129,8 @@
       "~CUSTOM:TitaniumHoe"
     ],
     "ITEMS:minecraft:swords": [
+      "~CUSTOM:ZincSword",
+      "~CUSTOM:TinSword",
       "~CUSTOM:BronzeSword",
       "~CUSTOM:ChromiumSword",
       "~CUSTOM:PyraliteSword",
@@ -13769,6 +14225,8 @@
       "Items.AMETHYST_SHARD"
     ],
     "ITEMS:minecraft:shovels": [
+      "~CUSTOM:ZincShovel",
+      "~CUSTOM:TinShovel",
       "~CUSTOM:BronzeShovel",
       "~CUSTOM:ChromiumShovel",
       "~CUSTOM:ObsidianiteShovel",
@@ -14489,7 +14947,25 @@
       "item.ore_plus.bronze_pickaxe": "Bronze Pickaxe",
       "item.ore_plus.bronze_axe": "Bronze Axe",
       "item.ore_plus.bronze_shovel": "Bronze Shovel",
-      "item.ore_plus.bronze_hoe": "Bronze Hoe"
+      "item.ore_plus.bronze_hoe": "Bronze Hoe",
+      "item.ore_plus.tin_armor_leggings": "Tin Leggings",
+      "item.ore_plus.tin_armor_helmet": "Tin Helmet",
+      "item.ore_plus.tin_armor_chestplate": "Tin Chestplate",
+      "item.ore_plus.tin_armor_boots": "Tin Boots",
+      "item.ore_plus.tin_sword": "Tin Sword",
+      "item.ore_plus.tin_pickaxe": "Tin Pickaxe",
+      "item.ore_plus.tin_axe": "Tin Axe",
+      "item.ore_plus.tin_shovel": "Tin Shovel",
+      "item.ore_plus.tin_hoe": "Tin Hoe",
+      "item.ore_plus.zinc_armor_helmet": "Zinc Helmet",
+      "item.ore_plus.zinc_armor_boots": "Zinc Boots",
+      "item.ore_plus.zinc_armor_leggings": "Zinc Leggings",
+      "item.ore_plus.zinc_armor_chestplate": "Zinc Chestplate",
+      "item.ore_plus.zinc_sword": "Zinc Sword",
+      "item.ore_plus.zinc_pickaxe": "Zinc Pickaxe",
+      "item.ore_plus.zinc_axe": "Zinc Axe",
+      "item.ore_plus.zinc_shovel": "Zinc Shovel",
+      "item.ore_plus.zinc_hoe": "Zinc Hoe"
     }
   },
   "metadata": {

@@ -222,6 +222,23 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.BRONZE_SWORD.get());
 				tabData.accept(OrePlusModItems.BRONZE_PICKAXE.get());
 				tabData.accept(OrePlusModItems.BRONZE_HOE.get());
+				tabData.accept(OrePlusModItems.TIN_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.TIN_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.TIN_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.TIN_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModItems.TIN_SWORD.get());
+				tabData.accept(OrePlusModItems.TIN_PICKAXE.get());
+				tabData.accept(OrePlusModItems.TIN_AXE.get());
+				tabData.accept(OrePlusModItems.TIN_HOE.get());
+				tabData.accept(OrePlusModItems.ZINC_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.ZINC_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.ZINC_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.ZINC_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModItems.ZINC_SWORD.get());
+				tabData.accept(OrePlusModItems.ZINC_PICKAXE.get());
+				tabData.accept(OrePlusModItems.ZINC_AXE.get());
+				tabData.accept(OrePlusModItems.ZINC_SHOVEL.get());
+				tabData.accept(OrePlusModItems.ZINC_HOE.get());
 			}).withSearchBar().build());
 
 	@SubscribeEvent
@@ -477,6 +494,7 @@ public class OrePlusModTabs {
 			tabData.accept(OrePlusModItems.AETHELGARD_SHOVEL.get());
 			tabData.accept(OrePlusModItems.BRONZE_AXE.get());
 			tabData.accept(OrePlusModItems.BRONZE_SHOVEL.get());
+			tabData.accept(OrePlusModItems.TIN_SHOVEL.get());
 		} else if (tabData.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
 			tabData.accept(OrePlusModBlocks.VOIDSTONE_ORE.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
