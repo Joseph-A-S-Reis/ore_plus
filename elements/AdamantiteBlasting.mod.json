@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:AdamantiteDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 5.0,
+    "cookingTime": 150,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:AdamantiteDust"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Adamantite"
+    },
+    "name": "adamantite_blasting",
+    "namespace": "mod"
+  }
+}

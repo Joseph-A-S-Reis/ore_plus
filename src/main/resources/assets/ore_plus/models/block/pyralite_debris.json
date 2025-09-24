@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/pyralite_debris_top",
+    "up": "ore_plus:block/pyralite_debris_top",
+    "north": "ore_plus:block/pyralite_debris",
+    "east": "ore_plus:block/pyralite_debris",
+    "south": "ore_plus:block/pyralite_debris",
+    "west": "ore_plus:block/pyralite_debris",
+    "particle": "ore_plus:block/pyralite_debris_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:SulfurOre"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.6,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:SulfurOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Sulfur"
+    },
+    "name": "sulfur_ore_smelting",
+    "namespace": "mod"
+  }
+}

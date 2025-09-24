@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    },
+    {
+      "item": "ore_plus:pyralite_shard"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:pyralite_ingot",
+    "count": 1
+  }
+}

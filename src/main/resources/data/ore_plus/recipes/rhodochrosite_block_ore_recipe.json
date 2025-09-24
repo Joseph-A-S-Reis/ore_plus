@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:rhodochrosite_block"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:rhodochrosite",
+    "count": 9
+  }
+}

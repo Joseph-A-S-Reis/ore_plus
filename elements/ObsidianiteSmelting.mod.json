@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:ObsidianiteDebris"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 3.0,
+    "cookingTime": 400,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:ObsidianiteDebris"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:ObsidianiteIngot"
+    },
+    "name": "obsidianite_smelting",
+    "namespace": "mod"
+  }
+}

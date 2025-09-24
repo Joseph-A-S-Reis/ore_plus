@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/cerium_ingot",
+    "up": "ore_plus:block/cerium_ingot",
+    "north": "ore_plus:block/cerium_ingot",
+    "east": "ore_plus:block/cerium_ingot",
+    "south": "ore_plus:block/cerium_ingot",
+    "west": "ore_plus:block/cerium_ingot",
+    "particle": "ore_plus:block/cerium_ingot"
+  },
+  "render_type": "solid"
+}

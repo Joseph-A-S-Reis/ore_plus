@@ -1,0 +1,29 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:AetheriumStar"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:Celestium"
+    },
+    "smithingInputTemplateStack": {
+      "value": "CUSTOM:VoidTool"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:AetheriumTool"
+    },
+    "name": "aetherium_tool_smithing",
+    "namespace": "mod"
+  }
+}

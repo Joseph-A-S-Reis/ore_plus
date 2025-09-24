@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:pyralite_block"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:pyralite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_plus",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_plus:mithril"
+    }
+  },
+  "result": {
+    "item": "ore_plus:mithril_armor_leggings",
+    "count": 1
+  }
+}

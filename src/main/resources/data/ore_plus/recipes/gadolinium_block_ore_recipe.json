@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:gadolinium_block"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:gadolinium_dust",
+    "count": 9
+  }
+}

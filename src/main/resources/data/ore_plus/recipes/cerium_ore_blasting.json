@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 0.6,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ore_plus:cerium_dust"
+  },
+  "result": "ore_plus:cerium"
+}

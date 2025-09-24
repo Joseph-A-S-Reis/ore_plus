@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Opal"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Opal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Opal"
+      },
+      {
+        "value": "CUSTOM:Opal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Opal"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OpalGemArmor.boots"
+    },
+    "name": "opal_gem_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

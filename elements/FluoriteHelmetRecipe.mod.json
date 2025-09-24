@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Fluorite"
+      },
+      {
+        "value": "CUSTOM:Fluorite"
+      },
+      {
+        "value": "CUSTOM:Fluorite"
+      },
+      {
+        "value": "CUSTOM:Fluorite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Fluorite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FluoriteArmor.helmet"
+    },
+    "name": "fluorite_helmet_recipe",
+    "namespace": "mod"
+  }
+}

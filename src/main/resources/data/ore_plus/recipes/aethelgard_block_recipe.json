@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    },
+    {
+      "item": "ore_plus:aethelgard_ingot"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:aethelgard_block",
+    "count": 1
+  }
+}

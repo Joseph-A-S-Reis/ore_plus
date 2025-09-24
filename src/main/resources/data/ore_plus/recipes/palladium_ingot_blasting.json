@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ore_plus:raw_palladium"
+  },
+  "result": "ore_plus:palladium_ingot"
+}

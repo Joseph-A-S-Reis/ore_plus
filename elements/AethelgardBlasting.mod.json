@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:AethelgardDebris"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 3.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:AethelgardDebris"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:AethelgardIngot"
+    },
+    "name": "aethelgard_blasting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:TinDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.5,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:TinDust"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Tin"
+    },
+    "name": "tin_smelting",
+    "namespace": "mod"
+  }
+}

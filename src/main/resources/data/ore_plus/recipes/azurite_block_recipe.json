@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_plus",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_plus:azurite"
+    }
+  },
+  "result": {
+    "item": "ore_plus:azurite_block",
+    "count": 1
+  }
+}

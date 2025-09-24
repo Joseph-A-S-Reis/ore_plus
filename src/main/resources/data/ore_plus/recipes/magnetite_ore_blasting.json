@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 0.6,
+  "cookingtime": 100,
+  "ingredient": {
+    "tag": "ore_plus:magnetite"
+  },
+  "result": "ore_plus:magnetite"
+}

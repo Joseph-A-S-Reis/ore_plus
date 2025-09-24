@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:deepslate_voidstone_ore",
+    "ore_plus:platinum_block",
+    "ore_plus:chromium_block",
+    "ore_plus:pyralite_block",
+    "ore_plus:obsidianite_block",
+    "ore_plus:celestium_ore",
+    "ore_plus:obsidianite_debris",
+    "ore_plus:aethelgard_block",
+    "ore_plus:aethelgard_debris",
+    "ore_plus:pyralite_debris",
+    "ore_plus:voidstone_ore"
+  ]
+}

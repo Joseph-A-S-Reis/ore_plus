@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:metal_scrap_block"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:metal_scrap",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:hematite_ore",
+    "ore_plus:deepslate_hematite_ore"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "ore_plus:void_tool"
+  },
+  "base": {
+    "item": "ore_plus:aetherium_star"
+  },
+  "addition": {
+    "item": "ore_plus:celestium"
+  },
+  "result": {
+    "item": "ore_plus:aetherium_tool"
+  }
+}

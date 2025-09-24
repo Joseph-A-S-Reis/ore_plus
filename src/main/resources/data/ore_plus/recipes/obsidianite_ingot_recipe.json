@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    },
+    {
+      "item": "ore_plus:obsidianite_shard"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:obsidianite_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:GalenaDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.3,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:GalenaDust"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Galena"
+    },
+    "name": "galena_blasting",
+    "namespace": "mod"
+  }
+}

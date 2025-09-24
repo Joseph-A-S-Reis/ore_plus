@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Electrum"
+      },
+      {
+        "value": "CUSTOM:Electrum"
+      },
+      {
+        "value": "CUSTOM:Electrum"
+      },
+      {
+        "value": "CUSTOM:Electrum"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Electrum"
+      },
+      {
+        "value": "CUSTOM:Electrum"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Electrum"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Electrum_IngotArmor.legs"
+    },
+    "name": "electrum_ingot_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

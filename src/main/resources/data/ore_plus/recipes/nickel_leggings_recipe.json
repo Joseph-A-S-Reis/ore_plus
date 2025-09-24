@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_plus",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_plus:nickel_ingot"
+    }
+  },
+  "result": {
+    "item": "ore_plus:nickel_armor_leggings",
+    "count": 1
+  }
+}

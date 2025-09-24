@@ -1,0 +1,48 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "MultiTool",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "void_tool",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "guiTexture": "",
+    "name": "Void Tool",
+    "specialInformation": {
+      "fixedValue": [
+        "Consume. Nothing else."
+      ]
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "efficiency": 14.0,
+    "attackSpeed": 6.0,
+    "enchantability": 24,
+    "damageVsEntity": 0.0,
+    "usageCount": 0,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Voidstone"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "VoidToolConsume"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "VoidLeakDrop"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "TAG:mod:metals"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 25,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "TAG:mod:metals"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:MetalScrap"
+    },
+    "name": "metal_scrap_blasting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 0.1,
+  "cookingtime": 25,
+  "ingredient": {
+    "tag": "ore_plus:metals"
+  },
+  "result": "ore_plus:metal_scrap"
+}

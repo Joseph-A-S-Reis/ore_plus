@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/deepslate_fluorite_ore",
+    "up": "ore_plus:block/deepslate_fluorite_ore",
+    "north": "ore_plus:block/deepslate_fluorite_ore",
+    "east": "ore_plus:block/deepslate_fluorite_ore",
+    "south": "ore_plus:block/deepslate_fluorite_ore",
+    "west": "ore_plus:block/deepslate_fluorite_ore",
+    "particle": "ore_plus:block/deepslate_fluorite_ore"
+  },
+  "render_type": "solid"
+}

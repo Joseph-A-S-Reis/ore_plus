@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:CinnabarDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.3,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:CinnabarDust"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Cinnabar"
+    },
+    "name": "cinnabar_smelting",
+    "namespace": "mod"
+  }
+}

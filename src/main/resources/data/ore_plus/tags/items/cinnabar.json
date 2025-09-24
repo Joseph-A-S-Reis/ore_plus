@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:deepslate_cinnabar_ore",
+    "ore_plus:cinnabar_ore"
+  ]
+}

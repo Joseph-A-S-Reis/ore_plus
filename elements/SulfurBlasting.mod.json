@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:SulfurDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.3,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:SulfurDust"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Sulfur"
+    },
+    "name": "sulfur_blasting",
+    "namespace": "mod"
+  }
+}

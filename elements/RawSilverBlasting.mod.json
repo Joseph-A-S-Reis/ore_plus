@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:RawSilver"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.3,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:RawSilver"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:SilverIngot"
+    },
+    "name": "raw_silver_blasting",
+    "namespace": "mod"
+  }
+}

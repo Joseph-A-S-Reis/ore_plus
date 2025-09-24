@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/deepslate_zircon_ore",
+    "up": "ore_plus:block/deepslate_zircon_ore",
+    "north": "ore_plus:block/deepslate_zircon_ore",
+    "east": "ore_plus:block/deepslate_zircon_ore",
+    "south": "ore_plus:block/deepslate_zircon_ore",
+    "west": "ore_plus:block/deepslate_zircon_ore",
+    "particle": "ore_plus:block/deepslate_zircon_ore"
+  },
+  "render_type": "solid"
+}

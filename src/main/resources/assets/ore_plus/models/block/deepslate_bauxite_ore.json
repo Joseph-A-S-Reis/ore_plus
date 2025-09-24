@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/deepslate_bauxite_ore",
+    "up": "ore_plus:block/deepslate_bauxite_ore",
+    "north": "ore_plus:block/deepslate_bauxite_ore",
+    "east": "ore_plus:block/deepslate_bauxite_ore",
+    "south": "ore_plus:block/deepslate_bauxite_ore",
+    "west": "ore_plus:block/deepslate_bauxite_ore",
+    "particle": "ore_plus:block/deepslate_bauxite_ore"
+  },
+  "render_type": "solid"
+}

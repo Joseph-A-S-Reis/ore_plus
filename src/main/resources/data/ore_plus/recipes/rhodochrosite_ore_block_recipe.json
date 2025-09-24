@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_plus:rhodochrosite"
+    }
+  },
+  "result": {
+    "item": "ore_plus:rhodochrosite_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:VoidstoneDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 5.0,
+    "cookingTime": 250,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:VoidstoneDust"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Voidstone"
+    },
+    "name": "voidstone_blasting",
+    "namespace": "mod"
+  }
+}

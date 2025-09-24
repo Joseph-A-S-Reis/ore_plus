@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "ore_plus:voidstone"
+    },
+    "title": {
+      "translate": "advancements.from_below.title"
+    },
+    "description": {
+      "translate": "advancements.from_below.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "from_below_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ore_plus:voidstone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ore_plus:from_the_heavens"
+}

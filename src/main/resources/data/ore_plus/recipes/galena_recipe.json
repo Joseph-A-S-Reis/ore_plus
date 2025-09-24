@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:galena_block"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:galena",
+    "count": 9
+  }
+}

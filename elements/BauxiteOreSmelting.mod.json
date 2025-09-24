@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:DeepslateBauxiteOre"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.6,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:ore_plus:bauxite"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Bauxite"
+    },
+    "name": "bauxite_ore_smelting",
+    "namespace": "mod"
+  }
+}

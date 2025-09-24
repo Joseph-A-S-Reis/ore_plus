@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "ore_plus:celestium"
+    },
+    "title": {
+      "translate": "advancements.from_the_heavens.title"
+    },
+    "description": {
+      "translate": "advancements.from_the_heavens.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "from_the_heavens_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ore_plus:celestium"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "minecraft:story/mine_diamond"
+}

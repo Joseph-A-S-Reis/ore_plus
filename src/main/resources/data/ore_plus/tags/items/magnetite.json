@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:deepslate_magnetite_ore",
+    "ore_plus:magnetite_ore"
+  ]
+}

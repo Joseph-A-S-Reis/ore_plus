@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_plus:alexandrite"
+    }
+  },
+  "result": {
+    "item": "ore_plus:alexandrite_block",
+    "count": 1
+  }
+}

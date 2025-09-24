@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:MagnetiteDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.3,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:MagnetiteDust"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Magnetite"
+    },
+    "name": "magnetite_smelting",
+    "namespace": "mod"
+  }
+}

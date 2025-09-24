@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diorite",
+    "minecraft:soul_soil",
+    "minecraft:andesite",
+    "minecraft:deepslate",
+    "minecraft:netherrack",
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:soul_sand",
+    "minecraft:dripstone_block",
+    "minecraft:gravel"
+  ]
+}

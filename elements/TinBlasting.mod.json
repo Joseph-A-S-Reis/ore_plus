@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:TinDust"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.5,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:TinDust"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Tin"
+    },
+    "name": "tin_blasting",
+    "namespace": "mod"
+  }
+}

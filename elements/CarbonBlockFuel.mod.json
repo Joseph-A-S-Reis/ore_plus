@@ -1,0 +1,15 @@
+{
+  "_fv": 79,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:CarbonBlock"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 14400.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

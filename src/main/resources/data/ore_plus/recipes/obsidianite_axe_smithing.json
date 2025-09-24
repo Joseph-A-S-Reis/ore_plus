@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:diamond_axe"
+  },
+  "base": {
+    "item": "ore_plus:obsidianite_ingot"
+  },
+  "addition": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "result": {
+    "item": "ore_plus:obsidianite_axe"
+  }
+}

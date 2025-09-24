@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gold_ingot",
+    "ore_plus:platinum_ingot",
+    "ore_plus:chromium_ingot",
+    "ore_plus:neodymium_ingot",
+    "ore_plus:nickel_ingot",
+    "minecraft:iron_ingot",
+    "ore_plus:lanthanium_ingot",
+    "ore_plus:yttrium_ingot",
+    "ore_plus:silver_ingot",
+    "ore_plus:cobalt_ingot",
+    "ore_plus:titanium_ingot",
+    "minecraft:netherite_ingot",
+    "ore_plus:gadoliniumingot",
+    "ore_plus:tungsten_ingot",
+    "minecraft:copper_ingot",
+    "ore_plus:palladium_ingot"
+  ]
+}

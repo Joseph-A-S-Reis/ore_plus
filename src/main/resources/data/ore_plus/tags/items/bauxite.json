@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:deepslate_bauxite_ore",
+    "ore_plus:bauxite_ore"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_plus",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_plus:malachite_block"
+    }
+  },
+  "result": {
+    "item": "ore_plus:malachite",
+    "count": 9
+  }
+}

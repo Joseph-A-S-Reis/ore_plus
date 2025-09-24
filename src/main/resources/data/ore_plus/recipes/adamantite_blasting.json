@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 5,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "ore_plus:adamantite_dust"
+  },
+  "result": "ore_plus:adamantite"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ore_plus:block/cobalt_block",
+    "particle": "ore_plus:block/cobalt_block"
+  },
+  "render_type": "solid"
+}

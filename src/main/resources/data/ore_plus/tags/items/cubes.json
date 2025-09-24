@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:bauxite",
+    "ore_plus:azurite",
+    "ore_plus:galena",
+    "ore_plus:magnetite",
+    "ore_plus:hematite",
+    "ore_plus:graphite",
+    "ore_plus:cerium",
+    "ore_plus:malachite",
+    "ore_plus:cinnabar",
+    "ore_plus:borax",
+    "ore_plus:sulfur"
+  ]
+}

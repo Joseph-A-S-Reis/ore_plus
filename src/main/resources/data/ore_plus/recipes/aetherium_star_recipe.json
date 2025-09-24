@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    },
+    {
+      "item": "ore_plus:aetherium"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:aetherium_star",
+    "count": 1
+  }
+}

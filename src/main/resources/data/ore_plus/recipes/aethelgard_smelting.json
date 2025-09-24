@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 3,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "ore_plus:aethelgard_debris"
+  },
+  "result": "ore_plus:aethelgard_ingot"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/deepslate_nickel_ore",
+    "up": "ore_plus:block/deepslate_nickel_ore",
+    "north": "ore_plus:block/deepslate_nickel_ore",
+    "east": "ore_plus:block/deepslate_nickel_ore",
+    "south": "ore_plus:block/deepslate_nickel_ore",
+    "west": "ore_plus:block/deepslate_nickel_ore",
+    "particle": "ore_plus:block/deepslate_nickel_ore"
+  },
+  "render_type": "solid"
+}

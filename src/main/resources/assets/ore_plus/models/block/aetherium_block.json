@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/aetherium_block",
+    "up": "ore_plus:block/aetherium_block",
+    "north": "ore_plus:block/aetherium_block",
+    "east": "ore_plus:block/aetherium_block",
+    "south": "ore_plus:block/aetherium_block",
+    "west": "ore_plus:block/aetherium_block",
+    "particle": "ore_plus:block/aetherium_block"
+  },
+  "render_type": "solid"
+}

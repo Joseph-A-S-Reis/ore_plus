@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:PyraliteDebris"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 3.0,
+    "cookingTime": 400,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:PyraliteDebris"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:PyraliteIngot"
+    },
+    "name": "pyralite_smelting",
+    "namespace": "mod"
+  }
+}

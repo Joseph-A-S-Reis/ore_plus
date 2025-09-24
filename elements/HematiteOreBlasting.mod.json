@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:hematite"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.6,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "TAG:ore_plus:hematite"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Hematite"
+    },
+    "name": "hematite_ore_blasting",
+    "namespace": "mod"
+  }
+}

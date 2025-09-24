@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ore_plus:cinnabar_block"
+    }
+  ],
+  "result": {
+    "item": "ore_plus:cinnabar",
+    "count": 9
+  }
+}

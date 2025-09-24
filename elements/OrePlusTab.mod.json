@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Ore+",
+    "icon": {
+      "value": "CUSTOM:Gadoliniumingot"
+    },
+    "showSearch": true
+  }
+}
