@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ore_plus:adamantite_dust",
+          "name": "ore_plus:raw_adamantite",
           "weight": 1,
           "conditions": [
             {

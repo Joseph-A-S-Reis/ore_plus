@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "alexandritegem_head",
+    "textureHelmet": "alexandrite_helmet",
     "enableBody": true,
-    "textureBody": "alexandritegem_body",
+    "textureBody": "alexandrite_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "alexandritegem_leggings",
+    "textureLeggings": "alexandrite_leggings",
     "enableBoots": true,
-    "textureBoots": "alexandritegem_boots",
+    "textureBoots": "alexandrite_boots",
     "creativeTabs": [
       {
         "value": "CUSTOM:OrePlusTab"

@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "brass_armor_head",
+    "textureHelmet": "brass_helmet",
     "enableBody": true,
-    "textureBody": "brass_armor_body",
+    "textureBody": "brass_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "brass_armor_leggings",
+    "textureLeggings": "brass_leggings",
     "enableBoots": true,
-    "textureBoots": "brass_armor_boots",
+    "textureBoots": "brass_boots",
     "creativeTabs": [
       {
         "value": "CUSTOM:OrePlusTab"

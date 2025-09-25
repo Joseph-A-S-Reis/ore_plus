@@ -15,7 +15,6 @@ import oreplus.item.ZincShovelItem;
 import oreplus.item.ZincPickaxeItem;
 import oreplus.item.ZincItem;
 import oreplus.item.ZincHoeItem;
-import oreplus.item.ZincDustItem;
 import oreplus.item.ZincAxeItem;
 import oreplus.item.ZincArmorItem;
 import oreplus.item.YttriumSwordItem;
@@ -54,7 +53,6 @@ import oreplus.item.TinShovelItem;
 import oreplus.item.TinPickaxeItem;
 import oreplus.item.TinItem;
 import oreplus.item.TinHoeItem;
-import oreplus.item.TinDustItem;
 import oreplus.item.TinAxeItem;
 import oreplus.item.TinArmorItem;
 import oreplus.item.TanzanitegemArmorItem;
@@ -108,13 +106,17 @@ import oreplus.item.RhodochrositeItem;
 import oreplus.item.RhodochrositeHoeItem;
 import oreplus.item.RhodochrositeAxeItem;
 import oreplus.item.RhodochrositeArmorItem;
+import oreplus.item.RawZincItem;
 import oreplus.item.RawTungstenItem;
+import oreplus.item.RawTinItem;
 import oreplus.item.RawSilverItem;
 import oreplus.item.RawPlatinumItem;
 import oreplus.item.RawPalladiumItem;
 import oreplus.item.RawNickelItem;
 import oreplus.item.RawNeodymiumItem;
+import oreplus.item.RawGadoliniumItem;
 import oreplus.item.RawCobaltItem;
+import oreplus.item.RawAdamantiteItem;
 import oreplus.item.PyraliteSwordItem;
 import oreplus.item.PyraliteShovelItem;
 import oreplus.item.PyraliteShardItem;
@@ -224,7 +226,6 @@ import oreplus.item.GadoliniumSwordItem;
 import oreplus.item.GadoliniumShovelItem;
 import oreplus.item.GadoliniumPickaxeItem;
 import oreplus.item.GadoliniumHoeItem;
-import oreplus.item.GadoliniumDustItem;
 import oreplus.item.GadoliniumAxeItem;
 import oreplus.item.GadoliniumArmorItem;
 import oreplus.item.FluoriteSwordItem;
@@ -312,7 +313,6 @@ import oreplus.item.AdamantiteShovelItem;
 import oreplus.item.AdamantitePickaxeItem;
 import oreplus.item.AdamantiteItem;
 import oreplus.item.AdamantiteHoeItem;
-import oreplus.item.AdamantiteDustItem;
 import oreplus.item.AdamantiteAxeItem;
 
 import oreplus.OrePlusMod;
@@ -402,7 +402,6 @@ public class OrePlusModItems {
 	public static final RegistryObject<Item> CERIUM_ORE = block(OrePlusModBlocks.CERIUM_ORE);
 	public static final RegistryObject<Item> YTTRIUM_INGOT = REGISTRY.register("yttrium_ingot", () -> new YttriumIngotItem());
 	public static final RegistryObject<Item> YTTRIUM_BLOCK = block(OrePlusModBlocks.YTTRIUM_BLOCK);
-	public static final RegistryObject<Item> GADOLINIUM_DUST = REGISTRY.register("gadolinium_dust", () -> new GadoliniumDustItem());
 	public static final RegistryObject<Item> GADOLINIUM_ORE = block(OrePlusModBlocks.GADOLINIUM_ORE);
 	public static final RegistryObject<Item> GADOLINIUM_BLOCK = block(OrePlusModBlocks.GADOLINIUM_BLOCK);
 	public static final RegistryObject<Item> ALEXANDRITE = REGISTRY.register("alexandrite", () -> new AlexandriteItem());
@@ -568,7 +567,6 @@ public class OrePlusModItems {
 	public static final RegistryObject<Item> CELESTIUM = REGISTRY.register("celestium", () -> new CelestiumItem());
 	public static final RegistryObject<Item> VOIDSTONE = REGISTRY.register("voidstone", () -> new VoidstoneItem());
 	public static final RegistryObject<Item> AETHERIUM = REGISTRY.register("aetherium", () -> new AetheriumItem());
-	public static final RegistryObject<Item> ADAMANTITE_DUST = REGISTRY.register("adamantite_dust", () -> new AdamantiteDustItem());
 	public static final RegistryObject<Item> ADAMANTITE_ORE = block(OrePlusModBlocks.ADAMANTITE_ORE);
 	public static final RegistryObject<Item> CELESTIUM_ORE = block(OrePlusModBlocks.CELESTIUM_ORE, new Item.Properties().rarity(Rarity.EPIC));
 	public static final RegistryObject<Item> VOIDSTONE_ORE = block(OrePlusModBlocks.VOIDSTONE_ORE, new Item.Properties().rarity(Rarity.EPIC));
@@ -707,11 +705,9 @@ public class OrePlusModItems {
 	public static final RegistryObject<Item> STEEL_ARMOR_BOOTS = REGISTRY.register("steel_armor_boots", () -> new SteelArmorItem.Boots());
 	public static final RegistryObject<Item> TIN_ORE = block(OrePlusModBlocks.TIN_ORE);
 	public static final RegistryObject<Item> DEEPSLATE_TIN_ORE = block(OrePlusModBlocks.DEEPSLATE_TIN_ORE);
-	public static final RegistryObject<Item> TIN_DUST = REGISTRY.register("tin_dust", () -> new TinDustItem());
 	public static final RegistryObject<Item> TIN_BLOCK = block(OrePlusModBlocks.TIN_BLOCK);
 	public static final RegistryObject<Item> ZINC_ORE = block(OrePlusModBlocks.ZINC_ORE);
 	public static final RegistryObject<Item> DEEPSLATE_ZINC_ORE = block(OrePlusModBlocks.DEEPSLATE_ZINC_ORE);
-	public static final RegistryObject<Item> ZINC_DUST = REGISTRY.register("zinc_dust", () -> new ZincDustItem());
 	public static final RegistryObject<Item> ZINC_BLOCK = block(OrePlusModBlocks.ZINC_BLOCK);
 	public static final RegistryObject<Item> METAL_SCRAP_BLOCK = block(OrePlusModBlocks.METAL_SCRAP_BLOCK);
 	public static final RegistryObject<Item> AETHERIUM_STAR = REGISTRY.register("aetherium_star", () -> new AetheriumStarItem());
@@ -867,6 +863,10 @@ public class OrePlusModItems {
 	public static final RegistryObject<Item> PYRALITE_ARMOR_CHESTPLATE = REGISTRY.register("pyralite_armor_chestplate", () -> new PyraliteArmorItem.Chestplate());
 	public static final RegistryObject<Item> PYRALITE_ARMOR_LEGGINGS = REGISTRY.register("pyralite_armor_leggings", () -> new PyraliteArmorItem.Leggings());
 	public static final RegistryObject<Item> PYRALITE_ARMOR_BOOTS = REGISTRY.register("pyralite_armor_boots", () -> new PyraliteArmorItem.Boots());
+	public static final RegistryObject<Item> RAW_GADOLINIUM = REGISTRY.register("raw_gadolinium", () -> new RawGadoliniumItem());
+	public static final RegistryObject<Item> RAW_ADAMANTITE = REGISTRY.register("raw_adamantite", () -> new RawAdamantiteItem());
+	public static final RegistryObject<Item> RAW_TIN = REGISTRY.register("raw_tin", () -> new RawTinItem());
+	public static final RegistryObject<Item> RAW_ZINC = REGISTRY.register("raw_zinc", () -> new RawZincItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items

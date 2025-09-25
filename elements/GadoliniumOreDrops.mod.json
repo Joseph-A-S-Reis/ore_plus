@@ -37,7 +37,7 @@
           {
             "type": "item",
             "item": {
-              "value": "CUSTOM:GadoliniumDust"
+              "value": "CUSTOM:RawGadolinium"
             },
             "weight": 1,
             "minCount": 1,

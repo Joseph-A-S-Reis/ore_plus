@@ -55,7 +55,7 @@
     ],
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:Tungstendust"
+      "value": ""
     },
     "dropAmount": 2,
     "useLootTableForDrops": true,
@@ -145,7 +145,7 @@
     "generationShape": "UNIFORM",
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 4,
-    "minGenerateHeight": 8,
+    "minGenerateHeight": 0,
     "maxGenerateHeight": 40
   }
 }

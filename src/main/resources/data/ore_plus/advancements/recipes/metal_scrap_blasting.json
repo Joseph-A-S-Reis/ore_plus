@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:metals"
-            ]
+            "tag": "ore_plus:metals"
           }
         ]
       },

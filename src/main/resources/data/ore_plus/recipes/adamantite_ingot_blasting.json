@@ -5,7 +5,7 @@
   "experience": 1,
   "cookingtime": 100,
   "ingredient": {
-    "item": "ore_plus:adamantite_dust"
+    "item": "ore_plus:raw_adamantite"
   },
   "result": "ore_plus:adamantite"
 }

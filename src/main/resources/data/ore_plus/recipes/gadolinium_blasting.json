@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 0.3,
+  "cookingtime": 100,
+  "ingredient": {
+    "tag": "ore_plus:gadolinium"
+  },
+  "result": "ore_plus:gadoliniumingot"
+}

@@ -157,7 +157,6 @@
   "block.ore_plus.sapphire_block": "Block of Sapphire",
   "item.ore_plus.cobalt_armor_boots": "Cobalt Boots",
   "item.ore_plus.sapphiregem_shovel": "Sapphire Shovel",
-  "item.ore_plus.gadolinium_dust": "Gadolinium",
   "item.ore_plus.cobalt_armor_helmet": "Cobalt Helmet",
   "item.ore_plus.zircongem_armor_leggings": "Zircon Leggings",
   "item.ore_plus.neodymium_armor_boots": "Neodymium Boots",
@@ -240,7 +239,6 @@
   "item.ore_plus.celestium": "Celestium",
   "item.ore_plus.voidstone": "Voidstone",
   "item.ore_plus.aetherium": "Aetherium",
-  "item.ore_plus.adamantite_dust": "Adamantite Dust",
   "block.ore_plus.adamantite_ore": "Adamantite Ore",
   "block.ore_plus.celestium_ore": "Celestium Ore",
   "block.ore_plus.voidstone_ore": "Voidstone Ore",
@@ -385,11 +383,9 @@
   "item.ore_plus.steel_armor_helmet": "Steel Helmet",
   "block.ore_plus.tin_ore": "Tin Ore",
   "block.ore_plus.deepslate_tin_ore": "Deepslate Tin Ore",
-  "item.ore_plus.tin_dust": "Tin Dust",
   "block.ore_plus.tin_block": "Tin Block",
   "block.ore_plus.zinc_ore": "Zinc Ore",
   "block.ore_plus.deepslate_zinc_ore": "Deepslate Zinc Ore",
-  "item.ore_plus.zinc_dust": "Zinc Dust",
   "block.ore_plus.zinc_block": "Zinc Block",
   "item_group.ore_plus.ore_plus_tab": "Ore+",
   "block.ore_plus.metal_scrap_block": "Metal Scrap Block",
@@ -552,5 +548,9 @@
   "item.ore_plus.pyralite_armor_leggings": "Pyralite Armor Leggings",
   "item.ore_plus.pyralite_armor_boots": "Pyralite Armor Boots",
   "item.ore_plus.pyralite_armor_helmet": "Pyralite Armor Helmet",
-  "item.ore_plus.pyralite_armor_chestplate": "Pyralite Armor Chestplate"
+  "item.ore_plus.pyralite_armor_chestplate": "Pyralite Armor Chestplate",
+  "item.ore_plus.raw_gadolinium": "Raw Gadolinium",
+  "item.ore_plus.raw_adamantite": "Raw Adamantite",
+  "item.ore_plus.raw_tin": "Raw Tin",
+  "item.ore_plus.raw_zinc": "Raw Zinc"
 }

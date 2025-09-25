@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "aquamarinearmor_head",
+    "textureHelmet": "aquamarine_helmet",
     "enableBody": true,
-    "textureBody": "aquamarinearmor_body",
+    "textureBody": "aquamarine_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "aquamarinearmor_leggings",
+    "textureLeggings": "aquamarine_leggings",
     "enableBoots": true,
-    "textureBoots": "aquamarinearmor_boots",
+    "textureBoots": "aquamarine_boots",
     "onHelmetTick": {
       "name": "AquamarineArmorProcedure"
     },

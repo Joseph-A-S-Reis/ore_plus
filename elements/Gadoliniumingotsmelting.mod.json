@@ -12,7 +12,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:GadoliniumDust"
+      "value": "CUSTOM:RawGadolinium"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Gadoliniumingot"

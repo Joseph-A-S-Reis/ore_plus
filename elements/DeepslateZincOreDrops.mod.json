@@ -14,7 +14,7 @@
           {
             "type": "item",
             "item": {
-              "value": "CUSTOM:ZincDust"
+              "value": "CUSTOM:RawZinc"
             },
             "weight": 1,
             "minCount": 1,

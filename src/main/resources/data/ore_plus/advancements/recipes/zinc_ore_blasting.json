@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:zinc_ore"
-            ]
+            "tag": "ore_plus:zinc_ore"
           }
         ]
       },

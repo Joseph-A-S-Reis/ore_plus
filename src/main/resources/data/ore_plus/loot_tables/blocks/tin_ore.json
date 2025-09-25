@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ore_plus:tin_dust",
+          "name": "ore_plus:raw_tin",
           "weight": 1,
           "conditions": [
             {

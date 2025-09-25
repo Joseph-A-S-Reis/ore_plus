@@ -52,7 +52,6 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.LANTHANIUM_INGOT.get());
 				tabData.accept(OrePlusModItems.CERIUM_DUST.get());
 				tabData.accept(OrePlusModItems.YTTRIUM_INGOT.get());
-				tabData.accept(OrePlusModItems.GADOLINIUM_DUST.get());
 				tabData.accept(OrePlusModItems.ALEXANDRITE.get());
 				tabData.accept(OrePlusModItems.PERIDOT.get());
 				tabData.accept(OrePlusModItems.ZIRCON_GEM.get());
@@ -79,7 +78,6 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.CELESTIUM.get());
 				tabData.accept(OrePlusModItems.VOIDSTONE.get());
 				tabData.accept(OrePlusModItems.AETHERIUM.get());
-				tabData.accept(OrePlusModItems.ADAMANTITE_DUST.get());
 				tabData.accept(OrePlusModItems.VOID_LEAK.get());
 				tabData.accept(OrePlusModItems.MORGANITE_ARMOR_HELMET.get());
 				tabData.accept(OrePlusModItems.MORGANITE_ARMOR_CHESTPLATE.get());
@@ -138,11 +136,9 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.STEEL_ARMOR_BOOTS.get());
 				tabData.accept(OrePlusModBlocks.TIN_ORE.get().asItem());
 				tabData.accept(OrePlusModBlocks.DEEPSLATE_TIN_ORE.get().asItem());
-				tabData.accept(OrePlusModItems.TIN_DUST.get());
 				tabData.accept(OrePlusModBlocks.TIN_BLOCK.get().asItem());
 				tabData.accept(OrePlusModBlocks.ZINC_ORE.get().asItem());
 				tabData.accept(OrePlusModBlocks.DEEPSLATE_ZINC_ORE.get().asItem());
-				tabData.accept(OrePlusModItems.ZINC_DUST.get());
 				tabData.accept(OrePlusModBlocks.ZINC_BLOCK.get().asItem());
 				tabData.accept(OrePlusModBlocks.METAL_SCRAP_BLOCK.get().asItem());
 				tabData.accept(OrePlusModItems.AETHERIUM_STAR.get());
@@ -292,6 +288,10 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.PYRALITE_ARMOR_CHESTPLATE.get());
 				tabData.accept(OrePlusModItems.PYRALITE_ARMOR_LEGGINGS.get());
 				tabData.accept(OrePlusModItems.PYRALITE_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModItems.RAW_GADOLINIUM.get());
+				tabData.accept(OrePlusModItems.RAW_ADAMANTITE.get());
+				tabData.accept(OrePlusModItems.RAW_TIN.get());
+				tabData.accept(OrePlusModItems.RAW_ZINC.get());
 			}).withSearchBar().build());
 
 	@SubscribeEvent

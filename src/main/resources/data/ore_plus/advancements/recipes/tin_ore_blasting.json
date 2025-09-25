@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:tin_ore"
-            ]
+            "tag": "ore_plus:tin_ore"
           }
         ]
       },

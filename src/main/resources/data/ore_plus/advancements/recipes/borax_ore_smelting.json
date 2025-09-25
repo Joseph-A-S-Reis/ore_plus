@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:borax"
-            ]
+            "tag": "ore_plus:borax"
           }
         ]
       },

@@ -14,7 +14,7 @@
           {
             "type": "item",
             "item": {
-              "value": "CUSTOM:TinDust"
+              "value": "CUSTOM:RawTin"
             },
             "weight": 1,
             "minCount": 1,

@@ -55,7 +55,7 @@
     ],
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:Palladiumdust"
+      "value": ""
     },
     "dropAmount": 2,
     "useLootTableForDrops": true,
@@ -145,7 +145,7 @@
     "generationShape": "UNIFORM",
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 4,
-    "minGenerateHeight": 16,
+    "minGenerateHeight": 0,
     "maxGenerateHeight": 50
   }
 }

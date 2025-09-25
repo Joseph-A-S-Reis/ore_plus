@@ -144,7 +144,7 @@
     "generationShape": "UNIFORM",
     "frequencyPerChunks": 15,
     "frequencyOnChunk": 6,
-    "minGenerateHeight": -44,
-    "maxGenerateHeight": -14
+    "minGenerateHeight": -14,
+    "maxGenerateHeight": 0
   }
 }

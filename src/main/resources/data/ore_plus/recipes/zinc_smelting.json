@@ -5,7 +5,7 @@
   "experience": 0.5,
   "cookingtime": 200,
   "ingredient": {
-    "item": "ore_plus:zinc_dust"
+    "item": "ore_plus:raw_zinc"
   },
   "result": "ore_plus:zinc"
 }

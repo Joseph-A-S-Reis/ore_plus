@@ -7,12 +7,12 @@
     "group": "",
     "unlockingItems": [],
     "cookingBookCategory": "MISC",
-    "xpReward": 1.89,
+    "xpReward": 0.3,
     "cookingTime": 200,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:GadoliniumOre"
+      "value": "TAG:ore_plus:gadolinium"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Gadoliniumingot"

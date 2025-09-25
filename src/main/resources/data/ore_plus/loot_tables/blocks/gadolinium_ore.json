@@ -40,7 +40,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ore_plus:gadolinium_dust",
+          "name": "ore_plus:raw_gadolinium",
           "weight": 1,
           "conditions": [
             {

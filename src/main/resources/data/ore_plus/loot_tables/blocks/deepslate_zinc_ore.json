@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ore_plus:zinc_dust",
+          "name": "ore_plus:raw_zinc",
           "weight": 1,
           "conditions": [
             {

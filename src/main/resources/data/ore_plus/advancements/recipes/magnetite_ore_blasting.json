@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:magnetite"
-            ]
+            "tag": "ore_plus:magnetite"
           }
         ]
       },
