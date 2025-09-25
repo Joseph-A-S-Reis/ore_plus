@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "base": {
+    "item": "ore_plus:aethelgard_ingot"
+  },
+  "addition": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "result": {
+    "item": "ore_plus:aethelgard_armor_chestplate"
+  }
+}

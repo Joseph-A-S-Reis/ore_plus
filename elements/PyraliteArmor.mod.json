@@ -1,0 +1,104 @@
+{
+  "_fv": 79,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "pyralite_helmet",
+    "enableBody": true,
+    "textureBody": "pyralite_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "pyralite_leggings",
+    "enableBoots": true,
+    "textureBoots": "pyralite_boots",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:OrePlusTab"
+      }
+    ],
+    "armorTextureFile": "pyralite_armor",
+    "helmetName": "Pyralite Armor Helmet",
+    "bodyName": "Pyralite Armor Chestplate",
+    "leggingsName": "Pyralite Armor Leggings",
+    "bootsName": "Pyralite Armor Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "helmetGlowCondition": {
+      "fixedValue": true
+    },
+    "bodyGlowCondition": {
+      "fixedValue": true
+    },
+    "leggingsGlowCondition": {
+      "fixedValue": true
+    },
+    "bootsGlowCondition": {
+      "fixedValue": true
+    },
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 38,
+    "damageValueHelmet": 3,
+    "damageValueBody": 9,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 3,
+    "enchantability": 17,
+    "toughness": 3.7,
+    "knockbackResistance": 0.25,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:PyraliteIngot"
+      }
+    ]
+  }
+}

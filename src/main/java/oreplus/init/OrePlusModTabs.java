@@ -58,6 +58,10 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.ZIRCON_GEM.get());
 				tabData.accept(OrePlusModItems.RHODOCHROSITE.get());
 				tabData.accept(OrePlusModItems.FLUORITE.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_BOOTS.get());
 				tabData.accept(OrePlusModItems.GADOLINIUMINGOT.get());
 				tabData.accept(OrePlusModItems.BRONZE.get());
 				tabData.accept(OrePlusModItems.BRASS.get());
@@ -239,6 +243,55 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.ZINC_AXE.get());
 				tabData.accept(OrePlusModItems.ZINC_SHOVEL.get());
 				tabData.accept(OrePlusModItems.ZINC_HOE.get());
+				tabData.accept(OrePlusModItems.SAPPHIRE_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.SAPPHIRE_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.SAPPHIRE_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.SAPPHIRE_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModItems.TOPAZ_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.TOPAZ_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.TOPAZ_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.TOPAZ_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModItems.AQUAMARINE_SWORD.get());
+				tabData.accept(OrePlusModItems.AQUAMARINE_PICKAXE.get());
+				tabData.accept(OrePlusModItems.AQUAMARINE_AXE.get());
+				tabData.accept(OrePlusModItems.AQUAMARINE_SHOVEL.get());
+				tabData.accept(OrePlusModItems.AQUAMARINE_HOE.get());
+				tabData.accept(OrePlusModItems.TANZANITE_SWORD.get());
+				tabData.accept(OrePlusModItems.TANZANITE_PICKAXE.get());
+				tabData.accept(OrePlusModItems.TANZANITE_SHOVEL.get());
+				tabData.accept(OrePlusModItems.TANZANITE_HOE.get());
+				tabData.accept(OrePlusModItems.MORGANITE_SWORD.get());
+				tabData.accept(OrePlusModItems.MORGANITE_PICKAXE.get());
+				tabData.accept(OrePlusModItems.MORGANITE_AXE.get());
+				tabData.accept(OrePlusModItems.MORGANITE_SHOVEL.get());
+				tabData.accept(OrePlusModItems.MORGANITE_HOE.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITE_SWORD.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITE_PICKAXE.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITE_AXE.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITE_SHOVEL.get());
+				tabData.accept(OrePlusModItems.ALEXANDRITE_HOE.get());
+				tabData.accept(OrePlusModItems.RHODOCHROSITE_SWORD.get());
+				tabData.accept(OrePlusModItems.RHODOCHROSITE_PICKAXE.get());
+				tabData.accept(OrePlusModItems.RHODOCHROSITE_AXE.get());
+				tabData.accept(OrePlusModItems.RHODOCHROSITE_SHOVEL.get());
+				tabData.accept(OrePlusModItems.RHODOCHROSITE_HOE.get());
+				tabData.accept(OrePlusModItems.FLUORITE_SWORD.get());
+				tabData.accept(OrePlusModItems.FLUORITE_PICKAXE.get());
+				tabData.accept(OrePlusModItems.FLUORITE_AXE.get());
+				tabData.accept(OrePlusModItems.FLUORITE_SHOVEL.get());
+				tabData.accept(OrePlusModItems.FLUORITE_HOE.get());
+				tabData.accept(OrePlusModItems.AETHELGARD_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.AETHELGARD_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.AETHELGARD_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.AETHELGARD_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModItems.OBSIDIANITE_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.OBSIDIANITE_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.OBSIDIANITE_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.OBSIDIANITE_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModItems.PYRALITE_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.PYRALITE_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.PYRALITE_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.PYRALITE_ARMOR_BOOTS.get());
 			}).withSearchBar().build());
 
 	@SubscribeEvent
@@ -341,10 +394,6 @@ public class OrePlusModTabs {
 			tabData.accept(OrePlusModItems.YTTRIUM_ARMOR_CHESTPLATE.get());
 			tabData.accept(OrePlusModItems.YTTRIUM_ARMOR_LEGGINGS.get());
 			tabData.accept(OrePlusModItems.YTTRIUM_ARMOR_BOOTS.get());
-			tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_HELMET.get());
-			tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_CHESTPLATE.get());
-			tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_LEGGINGS.get());
-			tabData.accept(OrePlusModItems.ALEXANDRITEGEM_ARMOR_BOOTS.get());
 			tabData.accept(OrePlusModItems.ZIRCONGEM_ARMOR_HELMET.get());
 			tabData.accept(OrePlusModItems.ZIRCONGEM_ARMOR_CHESTPLATE.get());
 			tabData.accept(OrePlusModItems.ZIRCONGEM_ARMOR_LEGGINGS.get());
@@ -495,6 +544,7 @@ public class OrePlusModTabs {
 			tabData.accept(OrePlusModItems.BRONZE_AXE.get());
 			tabData.accept(OrePlusModItems.BRONZE_SHOVEL.get());
 			tabData.accept(OrePlusModItems.TIN_SHOVEL.get());
+			tabData.accept(OrePlusModItems.TANZANITE_AXE.get());
 		} else if (tabData.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
 			tabData.accept(OrePlusModBlocks.VOIDSTONE_ORE.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {

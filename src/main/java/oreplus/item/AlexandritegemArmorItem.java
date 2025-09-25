@@ -66,7 +66,7 @@ public abstract class AlexandritegemArmorItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "ore_plus:textures/models/armor/alexandritegem_layer_1.png";
+			return "ore_plus:textures/models/armor/alexandrite_armor_layer_1.png";
 		}
 	}
 
@@ -77,7 +77,7 @@ public abstract class AlexandritegemArmorItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "ore_plus:textures/models/armor/alexandritegem_layer_1.png";
+			return "ore_plus:textures/models/armor/alexandrite_armor_layer_1.png";
 		}
 	}
 
@@ -88,7 +88,7 @@ public abstract class AlexandritegemArmorItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "ore_plus:textures/models/armor/alexandritegem_layer_2.png";
+			return "ore_plus:textures/models/armor/alexandrite_armor_layer_2.png";
 		}
 	}
 
@@ -99,7 +99,7 @@ public abstract class AlexandritegemArmorItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "ore_plus:textures/models/armor/alexandritegem_layer_1.png";
+			return "ore_plus:textures/models/armor/alexandrite_armor_layer_1.png";
 		}
 	}
 }

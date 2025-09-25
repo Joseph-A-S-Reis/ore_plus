@@ -12,10 +12,10 @@
     "textureBoots": "alexandritegem_boots",
     "creativeTabs": [
       {
-        "value": "COMBAT"
+        "value": "CUSTOM:OrePlusTab"
       }
     ],
-    "armorTextureFile": "alexandritegem",
+    "armorTextureFile": "alexandrite_armor",
     "helmetName": "Alexandrite Helmet",
     "bodyName": "Alexandrite Chestplate",
     "leggingsName": "Alexandrite Leggings",

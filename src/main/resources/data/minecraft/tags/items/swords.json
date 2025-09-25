@@ -4,15 +4,20 @@
     "ore_plus:lanthanium_sword",
     "ore_plus:chromium_sword",
     "ore_plus:obsidianite_sword",
+    "ore_plus:morganite_sword",
     "ore_plus:void_tool",
     "ore_plus:opal_sword",
     "ore_plus:silver_sword",
+    "ore_plus:fluorite_sword",
     "ore_plus:yttrium_sword",
     "ore_plus:sapphiregem_sword",
+    "ore_plus:aquamarine_sword",
     "ore_plus:rose_gold_sword",
     "ore_plus:aethelgard_sword",
     "ore_plus:titanium_sword",
+    "ore_plus:rhodochrosite_sword",
     "ore_plus:gadolinium_sword",
+    "ore_plus:tanzanite_sword",
     "ore_plus:electrum_sword",
     "ore_plus:neodymium_sword",
     "ore_plus:orichalcum_sword",
@@ -34,6 +39,7 @@
     "ore_plus:steel_sword",
     "ore_plus:brass_sword",
     "ore_plus:tin_sword",
-    "ore_plus:rubygem_sword"
+    "ore_plus:rubygem_sword",
+    "ore_plus:alexandrite_sword"
   ]
 }
