@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "electrum_ingot_head",
+    "textureHelmet": "electrum_helmet",
     "enableBody": true,
-    "textureBody": "electrum_ingot_body",
+    "textureBody": "electrum_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "electrum_ingot_leggings",
+    "textureLeggings": "electrum_leggings",
     "enableBoots": true,
-    "textureBoots": "electrum_ingot_boots",
+    "textureBoots": "electrum_boots",
     "creativeTabs": [
       {
         "value": "COMBAT"

@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "opalgem_head",
+    "textureHelmet": "opal_helmet",
     "enableBody": true,
-    "textureBody": "opalgem_body",
+    "textureBody": "opal_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "opalgem_leggings",
+    "textureLeggings": "opal_leggings",
     "enableBoots": true,
-    "textureBoots": "opalgem_boots",
+    "textureBoots": "opal_boots",
     "creativeTabs": [
       {
         "value": "COMBAT"

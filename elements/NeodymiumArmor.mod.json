@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "neodymium_head",
+    "textureHelmet": "neodymium_helmet",
     "enableBody": true,
-    "textureBody": "neodymium_body",
+    "textureBody": "neodymium_chestplate",
     "enableLeggings": true,
     "textureLeggings": "neodymium_leggings",
     "enableBoots": true,

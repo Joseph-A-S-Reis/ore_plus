@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "titanium_head",
+    "textureHelmet": "titanium_helmet",
     "enableBody": true,
-    "textureBody": "titanium_body",
+    "textureBody": "titanium_chestplate",
     "enableLeggings": true,
     "textureLeggings": "titanium_leggings",
     "enableBoots": true,

@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "mithril_armor_head",
+    "textureHelmet": "mithril_helmet",
     "enableBody": true,
-    "textureBody": "mithril_armor_body",
+    "textureBody": "mithril_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "mithril_armor_leggings",
+    "textureLeggings": "mithril_leggings",
     "enableBoots": true,
-    "textureBoots": "mithril_armor_boots",
+    "textureBoots": "mithril_boots",
     "creativeTabs": [
       {
         "value": "CUSTOM:OrePlusTab"

@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "rubygem_head",
+    "textureHelmet": "ruby_helmet",
     "enableBody": true,
-    "textureBody": "rubygem_body",
+    "textureBody": "ruby_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "rubygem_leggings",
+    "textureLeggings": "ruby_leggings",
     "enableBoots": true,
-    "textureBoots": "rubygem_boots",
+    "textureBoots": "ruby_boots",
     "creativeTabs": [
       {
         "value": "COMBAT"

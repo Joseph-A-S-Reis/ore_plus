@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "orichalcum_armor_head",
+    "textureHelmet": "orichalcum_helmet",
     "enableBody": true,
-    "textureBody": "orichalcum_armor_body",
+    "textureBody": "orichalcum_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "orichalcum_armor_leggings",
+    "textureLeggings": "orichalcum_leggings",
     "enableBoots": true,
-    "textureBoots": "orichalcum_armor_boots",
+    "textureBoots": "orichalcum_boots",
     "creativeTabs": [
       {
         "value": "CUSTOM:OrePlusTab"

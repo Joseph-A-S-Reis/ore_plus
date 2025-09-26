@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "chromium_head",
+    "textureHelmet": "chromium_helmet",
     "enableBody": true,
-    "textureBody": "chromium_body",
+    "textureBody": "chromium_chestplate",
     "enableLeggings": true,
     "textureLeggings": "chromium_leggings",
     "enableBoots": true,

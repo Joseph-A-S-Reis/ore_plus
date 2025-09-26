@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "rosegoldingot_head",
+    "textureHelmet": "rose_gold_helmet",
     "enableBody": true,
-    "textureBody": "rosegoldingot_body",
+    "textureBody": "rose_gold_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "rosegoldingot_leggings",
+    "textureLeggings": "rose_gold_leggings",
     "enableBoots": true,
-    "textureBoots": "rosegoldingot_boots",
+    "textureBoots": "rose_gold_boots",
     "creativeTabs": [
       {
         "value": "COMBAT"

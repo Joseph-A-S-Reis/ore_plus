@@ -3,19 +3,19 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "garnetgem_head",
+    "textureHelmet": "garnet_helmet",
     "enableBody": true,
-    "textureBody": "garnetgem_body",
+    "textureBody": "garnet_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "garnetgem_leggings",
+    "textureLeggings": "garnet_leggings",
     "enableBoots": true,
-    "textureBoots": "garnetgem_boots",
+    "textureBoots": "garnet_boots",
     "creativeTabs": [
       {
-        "value": "COMBAT"
+        "value": "CUSTOM:OrePlusTab"
       }
     ],
-    "armorTextureFile": "garnetgem",
+    "armorTextureFile": "garnet_armor",
     "helmetName": "Garnet Helmet",
     "bodyName": "Garnet Chestplate",
     "leggingsName": "Garnet Leggings",

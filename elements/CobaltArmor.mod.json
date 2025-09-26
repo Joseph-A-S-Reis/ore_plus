@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "cobalt_head",
+    "textureHelmet": "cobalt_helmet",
     "enableBody": true,
-    "textureBody": "cobalt_body",
+    "textureBody": "cobalt_chestplate",
     "enableLeggings": true,
     "textureLeggings": "cobalt_leggings",
     "enableBoots": true,

@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "yttrium_head",
+    "textureHelmet": "yttrium_helmet",
     "enableBody": true,
-    "textureBody": "yttrium_body",
+    "textureBody": "yttrium_chestplate",
     "enableLeggings": true,
     "textureLeggings": "yttrium_leggings",
     "enableBoots": true,

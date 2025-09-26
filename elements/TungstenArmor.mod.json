@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "tungsten_head",
+    "textureHelmet": "tungsten_helmet",
     "enableBody": true,
-    "textureBody": "tungsten_body",
+    "textureBody": "tungsten_chestplate",
     "enableLeggings": true,
     "textureLeggings": "tungsten_leggings",
     "enableBoots": true,

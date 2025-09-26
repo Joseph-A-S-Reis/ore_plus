@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ore_plus:item/zircongem_leggings"
+    "layer0": "ore_plus:item/zircon_leggings"
   }
 }

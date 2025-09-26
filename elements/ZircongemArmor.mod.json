@@ -3,16 +3,16 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "zircongem_head",
+    "textureHelmet": "zircon_helmet",
     "enableBody": true,
-    "textureBody": "zircongem_body",
+    "textureBody": "zircon_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "zircongem_leggings",
+    "textureLeggings": "zircon_leggings",
     "enableBoots": true,
-    "textureBoots": "zircongem_boots",
+    "textureBoots": "zircon_boots",
     "creativeTabs": [
       {
-        "value": "COMBAT"
+        "value": "CUSTOM:OrePlusTab"
       }
     ],
     "armorTextureFile": "zircongem",

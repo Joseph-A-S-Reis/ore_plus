@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ore_plus:item/titanium_head"
+    "layer0": "ore_plus:item/titanium_helmet"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ore_plus:item/garnetgem_leggings"
+    "layer0": "ore_plus:item/garnet_leggings"
   }
 }

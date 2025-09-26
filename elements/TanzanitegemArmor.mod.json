@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "tanzanitegem_head",
+    "textureHelmet": "tanzanite_helmet",
     "enableBody": true,
-    "textureBody": "tanzanitegem_body",
+    "textureBody": "tanzanite_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "tanzanitegem_leggings",
+    "textureLeggings": "tanzanite_leggings",
     "enableBoots": true,
-    "textureBoots": "tanzanitegem_boots",
+    "textureBoots": "tanzanite_boots",
     "creativeTabs": [
       {
         "value": "COMBAT"

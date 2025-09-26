@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ore_plus:item/yttrium_body"
+    "layer0": "ore_plus:item/yttrium_chestplate"
   }
 }
