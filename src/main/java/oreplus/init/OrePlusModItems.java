@@ -314,6 +314,7 @@ import oreplus.item.AdamantitePickaxeItem;
 import oreplus.item.AdamantiteItem;
 import oreplus.item.AdamantiteHoeItem;
 import oreplus.item.AdamantiteAxeItem;
+import oreplus.item.AdamantiteArmorItem;
 
 import oreplus.OrePlusMod;
 
@@ -867,6 +868,10 @@ public class OrePlusModItems {
 	public static final RegistryObject<Item> RAW_ADAMANTITE = REGISTRY.register("raw_adamantite", () -> new RawAdamantiteItem());
 	public static final RegistryObject<Item> RAW_TIN = REGISTRY.register("raw_tin", () -> new RawTinItem());
 	public static final RegistryObject<Item> RAW_ZINC = REGISTRY.register("raw_zinc", () -> new RawZincItem());
+	public static final RegistryObject<Item> ADAMANTITE_ARMOR_HELMET = REGISTRY.register("adamantite_armor_helmet", () -> new AdamantiteArmorItem.Helmet());
+	public static final RegistryObject<Item> ADAMANTITE_ARMOR_CHESTPLATE = REGISTRY.register("adamantite_armor_chestplate", () -> new AdamantiteArmorItem.Chestplate());
+	public static final RegistryObject<Item> ADAMANTITE_ARMOR_LEGGINGS = REGISTRY.register("adamantite_armor_leggings", () -> new AdamantiteArmorItem.Leggings());
+	public static final RegistryObject<Item> ADAMANTITE_ARMOR_BOOTS = REGISTRY.register("adamantite_armor_boots", () -> new AdamantiteArmorItem.Boots());
 
 	// Start of user code block custom items
 	// End of user code block custom items

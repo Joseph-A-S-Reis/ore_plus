@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "ore_plus:item/garnetgem_hoe"
+    "layer0": "ore_plus:item/garnet_hoe"
   }
 }

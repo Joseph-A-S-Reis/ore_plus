@@ -300,6 +300,10 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.RAW_ADAMANTITE.get());
 				tabData.accept(OrePlusModItems.RAW_TIN.get());
 				tabData.accept(OrePlusModItems.RAW_ZINC.get());
+				tabData.accept(OrePlusModItems.ADAMANTITE_ARMOR_HELMET.get());
+				tabData.accept(OrePlusModItems.ADAMANTITE_ARMOR_CHESTPLATE.get());
+				tabData.accept(OrePlusModItems.ADAMANTITE_ARMOR_LEGGINGS.get());
+				tabData.accept(OrePlusModItems.ADAMANTITE_ARMOR_BOOTS.get());
 			}).withSearchBar().build());
 
 	@SubscribeEvent

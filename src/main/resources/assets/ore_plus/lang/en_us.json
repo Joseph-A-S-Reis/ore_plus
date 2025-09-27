@@ -552,5 +552,9 @@
   "item.ore_plus.raw_gadolinium": "Raw Gadolinium",
   "item.ore_plus.raw_adamantite": "Raw Adamantite",
   "item.ore_plus.raw_tin": "Raw Tin",
-  "item.ore_plus.raw_zinc": "Raw Zinc"
+  "item.ore_plus.raw_zinc": "Raw Zinc",
+  "item.ore_plus.adamantite_armor_chestplate": "Adamantite Chestplate",
+  "item.ore_plus.adamantite_armor_boots": "Adamantite Boots",
+  "item.ore_plus.adamantite_armor_helmet": "Adamantite Helmet",
+  "item.ore_plus.adamantite_armor_leggings": "Adamantite Leggings"
 }

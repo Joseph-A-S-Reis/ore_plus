@@ -5,7 +5,7 @@
     "toolType": "Spade",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "morganitegem_shovel",
+    "texture": "morganite_shovel",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",

@@ -5,7 +5,7 @@
     "toolType": "Pickaxe",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "garnetgem_pickaxe",
+    "texture": "garnet_pickaxe",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",

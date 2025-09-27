@@ -5,7 +5,7 @@
     "toolType": "Axe",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "morganitegem_axe",
+    "texture": "morganite_axe",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",
