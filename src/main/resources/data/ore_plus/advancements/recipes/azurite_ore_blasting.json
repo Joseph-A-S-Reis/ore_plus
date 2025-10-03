@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:azurite"
-            ]
+            "tag": "ore_plus:azurite"
           }
         ]
       },

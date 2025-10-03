@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:gadolinium"
-            ]
+            "tag": "ore_plus:gadolinium"
           }
         ]
       },

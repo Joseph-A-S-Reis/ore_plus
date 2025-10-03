@@ -11,9 +11,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#ore_plus:malachite"
-            ]
+            "tag": "ore_plus:malachite"
           }
         ]
       },
