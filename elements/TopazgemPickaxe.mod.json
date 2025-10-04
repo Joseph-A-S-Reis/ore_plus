@@ -5,7 +5,7 @@
     "toolType": "Pickaxe",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "topazgem_pickaxe",
+    "texture": "topaz_pickaxe",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",

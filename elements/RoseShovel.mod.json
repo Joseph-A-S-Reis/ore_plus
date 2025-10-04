@@ -5,7 +5,7 @@
     "toolType": "Spade",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "rose_shovel",
+    "texture": "rose_gold_shovel",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",

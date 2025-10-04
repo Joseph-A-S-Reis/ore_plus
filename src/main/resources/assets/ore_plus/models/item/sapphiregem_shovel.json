@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "ore_plus:item/sapphiregem_shovel"
+    "layer0": "ore_plus:item/sapphire_shovel"
   }
 }

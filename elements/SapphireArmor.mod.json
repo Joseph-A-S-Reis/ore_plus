@@ -3,7 +3,7 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "sapphite_helmet",
+    "textureHelmet": "sapphire_helmet",
     "enableBody": true,
     "textureBody": "sapphire_chestplate",
     "enableLeggings": true,

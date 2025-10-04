@@ -5,7 +5,7 @@
     "toolType": "Hoe",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "rose_hoe",
+    "texture": "rose_gold_hoe",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",

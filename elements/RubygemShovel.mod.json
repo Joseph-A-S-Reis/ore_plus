@@ -5,7 +5,7 @@
     "toolType": "Spade",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "rubygem_shovel",
+    "texture": "ruby_shovel",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",
