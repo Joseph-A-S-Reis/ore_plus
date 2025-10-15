@@ -16356,13 +16356,17 @@
       {
         "name": "0.1.3",
         "children": []
+      },
+      {
+        "name": "0.1.4",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "ore_plus",
     "modName": "Ore+",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "description": "Adds more ores into the game",
     "author": "Joseph Reis",
     "websiteURL": "https://github.com/Joseph-A-S-Reis/ore_plus",

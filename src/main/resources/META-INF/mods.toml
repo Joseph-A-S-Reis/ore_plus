@@ -4,7 +4,7 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="ore_plus"
-version="0.1.2"
+version="0.1.4"
 displayName="Ore+"
 displayURL="https://github.com/Joseph-A-S-Reis/ore_plus"
 logoFile="logo.png"
@@ -26,4 +26,10 @@ description="Adds more ores into the game"
 
 
 # Start of user code block dependencies configuration
+[[dependencies.memory_of_the_past]]
+    modId="jauml"
+    mandatory=true
+    versionRange="[1.0.3,)"
+    ordering="NONE"
+    side="BOTH"
 # End of user code block dependencies configuration
