@@ -16290,12 +16290,12 @@
   "metadata": {
     "files": [
       "src/main/java/oreplus/OrePlusMod.java",
-      "src/main/resources/META-INF/mods.toml",
       "src/main/java/oreplus/init/OrePlusModTabs.java",
       "src/main/resources/pack.mcmeta",
-      "src/main/java/oreplus/network/MenuStateUpdateMessage.java",
+      "src/main/resources/META-INF/mods.toml",
       "src/main/java/oreplus/init/OrePlusModScreens.java",
       "src/main/java/oreplus/init/OrePlusModMenus.java",
+      "src/main/java/oreplus/network/MenuStateUpdateMessage.java",
       "src/main/java/oreplus/init/OrePlusModFuels.java",
       "src/main/java/oreplus/init/OrePlusModBlocks.java",
       "src/main/java/oreplus/init/OrePlusModBlockEntities.java",
