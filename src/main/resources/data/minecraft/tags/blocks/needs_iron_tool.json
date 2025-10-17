@@ -1,7 +1,9 @@
 {
   "replace": false,
   "values": [
+    "ore_plus:deepslate_spinel_ore",
     "ore_plus:gadolinium_ore",
+    "ore_plus:deepslate_kyanite_ore",
     "ore_plus:lanthanium_block",
     "ore_plus:deepslate_nickel_ore",
     "ore_plus:sapphire_ore",
@@ -19,6 +21,7 @@
     "ore_plus:deepslate_zircon_ore",
     "ore_plus:deepslate_cobalt_ore",
     "ore_plus:opal_block",
+    "ore_plus:spinel_ore",
     "ore_plus:magnetite_block",
     "ore_plus:palladium_block",
     "ore_plus:deepslate_topaz_ore",
@@ -59,6 +62,7 @@
     "ore_plus:silver_ore",
     "ore_plus:hematite_block",
     "ore_plus:palladium_ore",
+    "ore_plus:kyanite_ore",
     "ore_plus:topaz_ore",
     "ore_plus:cerium_block",
     "ore_plus:deepslate_tanzanite_ore",

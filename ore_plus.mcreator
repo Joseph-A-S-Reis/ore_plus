@@ -15005,6 +15005,490 @@
         ]
       },
       "path": "~/0.1.3"
+    },
+    {
+      "name": "DeepslateMolybdenumOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_molybdenum_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/deepslate_molybdenum_ore.json",
+          "src/main/resources/assets/ore_plus/models/item/deepslate_molybdenum_ore.json",
+          "src/main/resources/data/ore_plus/forge/biome_modifier/deepslate_molybdenum_ore_biome_modifier.json",
+          "src/main/java/oreplus/block/DeepslateMolybdenumOreBlock.java",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/deepslate_molybdenum_ore.json",
+          "src/main/resources/assets/ore_plus/models/block/deepslate_molybdenum_ore.json",
+          "src/main/resources/assets/ore_plus/blockstates/deepslate_molybdenum_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateNiobiumOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_niobium_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/forge/biome_modifier/deepslate_niobium_ore_biome_modifier.json",
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/deepslate_niobium_ore.json",
+          "src/main/resources/assets/ore_plus/models/block/deepslate_niobium_ore.json",
+          "src/main/resources/assets/ore_plus/blockstates/deepslate_niobium_ore.json",
+          "src/main/java/oreplus/block/DeepslateNiobiumOreBlock.java",
+          "src/main/resources/assets/ore_plus/models/item/deepslate_niobium_ore.json",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/deepslate_niobium_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/bismuth_ore.json",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_ore.json",
+          "src/main/resources/assets/ore_plus/models/block/bismuth_ore.json",
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/bismuth_ore.json",
+          "src/main/resources/data/ore_plus/forge/biome_modifier/bismuth_ore_biome_modifier.json",
+          "src/main/java/oreplus/block/BismuthOreBlock.java",
+          "src/main/resources/assets/ore_plus/blockstates/bismuth_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateBismuthOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_bismuth_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/forge/biome_modifier/deepslate_bismuth_ore_biome_modifier.json",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/deepslate_bismuth_ore.json",
+          "src/main/resources/assets/ore_plus/models/item/deepslate_bismuth_ore.json",
+          "src/main/java/oreplus/block/DeepslateBismuthOreBlock.java",
+          "src/main/resources/assets/ore_plus/blockstates/deepslate_bismuth_ore.json",
+          "src/main/resources/assets/ore_plus/models/block/deepslate_bismuth_ore.json",
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/deepslate_bismuth_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateOsmiumOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_osmium_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/deepslate_osmium_ore.json",
+          "src/main/resources/assets/ore_plus/blockstates/deepslate_osmium_ore.json",
+          "src/main/resources/assets/ore_plus/models/item/deepslate_osmium_ore.json",
+          "src/main/resources/data/ore_plus/forge/biome_modifier/deepslate_osmium_ore_biome_modifier.json",
+          "src/main/resources/assets/ore_plus/models/block/deepslate_osmium_ore.json",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/deepslate_osmium_ore.json",
+          "src/main/java/oreplus/block/DeepslateOsmiumOreBlock.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/spinel_ore.json",
+          "src/main/resources/data/ore_plus/forge/biome_modifier/spinel_ore_biome_modifier.json",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/spinel_ore.json",
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/spinel_ore.json",
+          "src/main/resources/assets/ore_plus/blockstates/spinel_ore.json",
+          "src/main/resources/assets/ore_plus/models/block/spinel_ore.json",
+          "src/main/java/oreplus/block/SpinelOreBlock.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateSpinelOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_spinel_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/deepslate_spinel_ore.json",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/deepslate_spinel_ore.json",
+          "src/main/resources/data/ore_plus/forge/biome_modifier/deepslate_spinel_ore_biome_modifier.json",
+          "src/main/resources/assets/ore_plus/blockstates/deepslate_spinel_ore.json",
+          "src/main/java/oreplus/block/DeepslateSpinelOreBlock.java",
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/deepslate_spinel_ore.json",
+          "src/main/resources/assets/ore_plus/models/block/deepslate_spinel_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/blockstates/kyanite_ore.json",
+          "src/main/java/oreplus/block/KyaniteOreBlock.java",
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/kyanite_ore.json",
+          "src/main/resources/assets/ore_plus/models/item/kyanite_ore.json",
+          "src/main/resources/assets/ore_plus/models/block/kyanite_ore.json",
+          "src/main/resources/data/ore_plus/forge/biome_modifier/kyanite_ore_biome_modifier.json",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/kyanite_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateKyaniteOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_kyanite_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/block/DeepslateKyaniteOreBlock.java",
+          "src/main/resources/data/ore_plus/worldgen/placed_feature/deepslate_kyanite_ore.json",
+          "src/main/resources/data/ore_plus/worldgen/configured_feature/deepslate_kyanite_ore.json",
+          "src/main/resources/data/ore_plus/forge/biome_modifier/deepslate_kyanite_ore_biome_modifier.json",
+          "src/main/resources/assets/ore_plus/models/block/deepslate_kyanite_ore.json",
+          "src/main/resources/assets/ore_plus/blockstates/deepslate_kyanite_ore.json",
+          "src/main/resources/assets/ore_plus/models/item/deepslate_kyanite_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "Molybdenum",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molybdenum",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/MolybdenumItem.java",
+          "src/main/resources/assets/ore_plus/models/item/molybdenum.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "Niobium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/NiobiumItem.java",
+          "src/main/resources/assets/ore_plus/models/item/niobium.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/bismuth_ingot.json",
+          "src/main/java/oreplus/item/BismuthIngotItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ingot",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/OsmiumIngotItem.java",
+          "src/main/resources/assets/ore_plus/models/item/osmium_ingot.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "Spinel",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/SpinelItem.java",
+          "src/main/resources/assets/ore_plus/models/item/spinel.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "Kyanite",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/KyaniteItem.java",
+          "src/main/resources/assets/ore_plus/models/item/kyanite.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MolybdenumDust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molybdenum_dust",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/molybdenum_dust.json",
+          "src/main/java/oreplus/item/MolybdenumDustItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NiobiumDust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_dust",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/niobium_dust.json",
+          "src/main/java/oreplus/item/NiobiumDustItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "RawBismuth",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_bismuth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/raw_bismuth.json",
+          "src/main/java/oreplus/item/RawBismuthItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "RawOsmium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_osmium",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/RawOsmiumItem.java",
+          "src/main/resources/assets/ore_plus/models/item/raw_osmium.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateMolybdenumOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_molybdenum_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/deepslate_molybdenum_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateNiobiumOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_niobium_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/deepslate_niobium_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/bismuth_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateBismuthOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_bismuth_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/deepslate_bismuth_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateOsmiumOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_osmium_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/deepslate_osmium_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/spinel_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateSpinelOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_spinel_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/deepslate_spinel_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/kyanite_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "DeepslateKyaniteOreDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_kyanite_ore_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/deepslate_kyanite_ore.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MolybdenumSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molybdenum_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/molybdenum_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/molybdenum_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MolybdenumBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molybdenum_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/molybdenum_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/molybdenum_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NiobiumSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/niobium_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/niobium_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NiobiumBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/niobium_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/niobium_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
     }
   ],
   "variable_elements": [],
@@ -15024,6 +15508,10 @@
       "~CUSTOM:PlatinumBlock"
     ],
     "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:DeepslateKyaniteOre",
+      "~CUSTOM:KyaniteOre",
+      "~CUSTOM:DeepslateSpinelOre",
+      "~CUSTOM:SpinelOre",
       "~CUSTOM:CeriumBlock",
       "~CUSTOM:AzuriteBlock",
       "~CUSTOM:MalachiteBlock",
@@ -15101,6 +15589,15 @@
       "~CUSTOM:SilverOre"
     ],
     "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:DeepslateKyaniteOre",
+      "~CUSTOM:KyaniteOre",
+      "~CUSTOM:DeepslateSpinelOre",
+      "~CUSTOM:SpinelOre",
+      "~CUSTOM:DeepslateOsmiumOre",
+      "~CUSTOM:DeepslateBismuthOre",
+      "~CUSTOM:BismuthOre",
+      "~CUSTOM:DeepslateNiobiumOre",
+      "~CUSTOM:DeepslateMolybdenumOre",
       "~CUSTOM:CeriumBlock",
       "~CUSTOM:AzuriteBlock",
       "~CUSTOM:MalachiteBlock",
@@ -15220,6 +15717,11 @@
       "~CUSTOM:SilverOre"
     ],
     "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:DeepslateOsmiumOre",
+      "~CUSTOM:DeepslateBismuthOre",
+      "~CUSTOM:BismuthOre",
+      "~CUSTOM:DeepslateNiobiumOre",
+      "~CUSTOM:DeepslateMolybdenumOre",
       "~CUSTOM:DeepslateZincOre",
       "~CUSTOM:ZincOre",
       "~CUSTOM:DeepslateTinOre",
@@ -15722,6 +16224,14 @@
     "ITEMS:ore_plus:gadolinium": [
       "CUSTOM:GadoliniumOre",
       "CUSTOM:DeepslateGadoliniumOre"
+    ],
+    "ITEMS:ore_plus:molybdenum": [
+      "CUSTOM:DeepslateMolybdenumOre",
+      "CUSTOM:MolybdenumDust"
+    ],
+    "ITEMS:ore_plus:niobium": [
+      "CUSTOM:DeepslateNiobiumOre",
+      "CUSTOM:NiobiumDust"
     ]
   },
   "tab_element_order": {},
@@ -16284,18 +16794,37 @@
       "item.ore_plus.adamantite_armor_chestplate": "Adamantite Chestplate",
       "item.ore_plus.adamantite_armor_boots": "Adamantite Boots",
       "item.ore_plus.adamantite_armor_helmet": "Adamantite Helmet",
-      "item.ore_plus.adamantite_armor_leggings": "Adamantite Leggings"
+      "item.ore_plus.adamantite_armor_leggings": "Adamantite Leggings",
+      "block.ore_plus.deepslate_molybdenum_ore": "Deepslate Molybdenum Ore",
+      "block.ore_plus.deepslate_niobium_ore": "Deepslate Niobium Ore",
+      "block.ore_plus.bismuth_ore": "Bismuth Ore",
+      "block.ore_plus.deepslate_bismuth_ore": "Deepslate Bismuth Ore",
+      "block.ore_plus.deepslate_osmium_ore": "Deepslate Osmium Ore",
+      "block.ore_plus.spinel_ore": "Spinel Ore",
+      "block.ore_plus.deepslate_spinel_ore": "Deepslate Spinel Ore",
+      "block.ore_plus.kyanite_ore": "Kyanite Ore",
+      "block.ore_plus.deepslate_kyanite_ore": "Deepslate Kyanite Ore",
+      "item.ore_plus.molybdenum": "Molybdenum",
+      "item.ore_plus.niobium": "Niobium",
+      "item.ore_plus.bismuth_ingot": "Bismuth Ingot",
+      "item.ore_plus.osmium_ingot": "Osmium Ingot",
+      "item.ore_plus.spinel": "Spinel",
+      "item.ore_plus.kyanite": "Kyanite",
+      "item.ore_plus.molybdenum_dust": "Molybdenum Dust",
+      "item.ore_plus.niobium_dust": "Niobium Dust",
+      "item.ore_plus.raw_bismuth": "Raw Bismuth",
+      "item.ore_plus.raw_osmium": "Raw Osmium"
     }
   },
   "metadata": {
     "files": [
       "src/main/java/oreplus/OrePlusMod.java",
+      "src/main/resources/META-INF/mods.toml",
       "src/main/java/oreplus/init/OrePlusModTabs.java",
       "src/main/resources/pack.mcmeta",
-      "src/main/resources/META-INF/mods.toml",
+      "src/main/java/oreplus/network/MenuStateUpdateMessage.java",
       "src/main/java/oreplus/init/OrePlusModScreens.java",
       "src/main/java/oreplus/init/OrePlusModMenus.java",
-      "src/main/java/oreplus/network/MenuStateUpdateMessage.java",
       "src/main/java/oreplus/init/OrePlusModFuels.java",
       "src/main/java/oreplus/init/OrePlusModBlocks.java",
       "src/main/java/oreplus/init/OrePlusModBlockEntities.java",

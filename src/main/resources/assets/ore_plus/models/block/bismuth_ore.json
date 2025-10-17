@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/bismuth_ore",
+    "up": "ore_plus:block/bismuth_ore",
+    "north": "ore_plus:block/bismuth_ore",
+    "east": "ore_plus:block/bismuth_ore",
+    "south": "ore_plus:block/bismuth_ore",
+    "west": "ore_plus:block/bismuth_ore",
+    "particle": "ore_plus:block/bismuth_ore"
+  },
+  "render_type": "solid"
+}

@@ -304,6 +304,25 @@ public class OrePlusModTabs {
 				tabData.accept(OrePlusModItems.ADAMANTITE_ARMOR_CHESTPLATE.get());
 				tabData.accept(OrePlusModItems.ADAMANTITE_ARMOR_LEGGINGS.get());
 				tabData.accept(OrePlusModItems.ADAMANTITE_ARMOR_BOOTS.get());
+				tabData.accept(OrePlusModBlocks.DEEPSLATE_MOLYBDENUM_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.DEEPSLATE_NIOBIUM_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.BISMUTH_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.DEEPSLATE_BISMUTH_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.DEEPSLATE_OSMIUM_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.SPINEL_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.DEEPSLATE_SPINEL_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.KYANITE_ORE.get().asItem());
+				tabData.accept(OrePlusModBlocks.DEEPSLATE_KYANITE_ORE.get().asItem());
+				tabData.accept(OrePlusModItems.MOLYBDENUM.get());
+				tabData.accept(OrePlusModItems.NIOBIUM.get());
+				tabData.accept(OrePlusModItems.BISMUTH_INGOT.get());
+				tabData.accept(OrePlusModItems.OSMIUM_INGOT.get());
+				tabData.accept(OrePlusModItems.SPINEL.get());
+				tabData.accept(OrePlusModItems.KYANITE.get());
+				tabData.accept(OrePlusModItems.MOLYBDENUM_DUST.get());
+				tabData.accept(OrePlusModItems.NIOBIUM_DUST.get());
+				tabData.accept(OrePlusModItems.RAW_BISMUTH.get());
+				tabData.accept(OrePlusModItems.RAW_OSMIUM.get());
 			}).withSearchBar().build());
 
 	@SubscribeEvent
