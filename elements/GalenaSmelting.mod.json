@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:GalenaDust"
+        "value": "TAG:ore_plus:galena"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:GalenaDust"
+      "value": "TAG:ore_plus:galena"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Galena"

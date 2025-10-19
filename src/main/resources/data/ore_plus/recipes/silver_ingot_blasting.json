@@ -2,10 +2,10 @@
   "type": "minecraft:blasting",
   "group": "ore_plus",
   "category": "misc",
-  "experience": 1,
+  "experience": 0.3,
   "cookingtime": 100,
   "ingredient": {
-    "item": "ore_plus:deleted_mod_element"
+    "tag": "ore_plus:silver"
   },
   "result": "ore_plus:silver_ingot"
 }

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:sulfur_ore",
+    "ore_plus:sulfur_dust"
+  ]
+}

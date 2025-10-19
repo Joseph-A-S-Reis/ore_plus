@@ -51,7 +51,7 @@
     "creativeTabs": [],
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:AdamantiteDust"
+      "value": ""
     },
     "dropAmount": 3,
     "useLootTableForDrops": true,
@@ -104,7 +104,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "vanillaToolTier": "IRON",
+    "vanillaToolTier": "STONE",
     "isBonemealable": false,
     "sensitiveToVibration": false,
     "vibrationalEvents": [],

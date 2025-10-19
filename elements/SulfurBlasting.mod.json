@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:SulfurDust"
+        "value": "TAG:ore_plus:sulfur"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:SulfurDust"
+      "value": "TAG:ore_plus:sulfur"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Sulfur"

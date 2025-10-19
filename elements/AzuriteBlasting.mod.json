@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:AzuriteDust"
+        "value": "TAG:ore_plus:azurite"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:AzuriteDust"
+      "value": "TAG:ore_plus:azurite"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Azurite"

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:tungsten_ore",
+    "ore_plus:deepslate_tungsten_ore",
+    "ore_plus:raw_tungsten"
+  ]
+}

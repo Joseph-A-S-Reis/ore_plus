@@ -7,16 +7,16 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:AdamantiteDust"
+        "value": "TAG:ore_plus:adamantite"
       }
     ],
     "cookingBookCategory": "MISC",
-    "xpReward": 5.0,
-    "cookingTime": 150,
+    "xpReward": 0.3,
+    "cookingTime": 100,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:AdamantiteDust"
+      "value": "TAG:ore_plus:adamantite"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Adamantite"

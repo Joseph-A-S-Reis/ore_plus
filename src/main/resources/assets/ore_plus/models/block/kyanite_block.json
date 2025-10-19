@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_plus:block/kyanite_block",
+    "up": "ore_plus:block/kyanite_block",
+    "north": "ore_plus:block/kyanite_block",
+    "east": "ore_plus:block/kyanite_block",
+    "south": "ore_plus:block/kyanite_block",
+    "west": "ore_plus:block/kyanite_block",
+    "particle": "ore_plus:block/kyanite_block"
+  },
+  "render_type": "solid"
+}

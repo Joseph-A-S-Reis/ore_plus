@@ -5,7 +5,7 @@
   "experience": 0.3,
   "cookingtime": 100,
   "ingredient": {
-    "item": "ore_plus:magnetite_dust"
+    "tag": "ore_plus:magnetite"
   },
   "result": "ore_plus:magnetite"
 }

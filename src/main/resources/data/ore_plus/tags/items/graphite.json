@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "ore_plus:deepslate_graphite_ore",
+    "ore_plus:graphite_dust",
     "ore_plus:graphite_ore"
   ]
 }

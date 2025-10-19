@@ -5,14 +5,18 @@
     "recipeType": "Blasting",
     "recipeRetstackSize": 1,
     "group": "ore_plus",
-    "unlockingItems": [],
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:tin"
+      }
+    ],
     "cookingBookCategory": "MISC",
-    "xpReward": 0.5,
+    "xpReward": 0.3,
     "cookingTime": 100,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:RawTin"
+      "value": "TAG:ore_plus:tin"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Tin"

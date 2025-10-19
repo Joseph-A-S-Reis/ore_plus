@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:HematiteDust"
+        "value": "TAG:ore_plus:hematite"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:HematiteDust"
+      "value": "TAG:ore_plus:hematite"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Hematite"

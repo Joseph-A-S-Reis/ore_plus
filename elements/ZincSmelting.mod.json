@@ -5,14 +5,18 @@
     "recipeType": "Smelting",
     "recipeRetstackSize": 1,
     "group": "ore_plus",
-    "unlockingItems": [],
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:zinc"
+      }
+    ],
     "cookingBookCategory": "MISC",
-    "xpReward": 0.5,
+    "xpReward": 0.3,
     "cookingTime": 200,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:RawZinc"
+      "value": "TAG:ore_plus:zinc"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Zinc"

@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "ore_plus:cerium_ore",
+    "ore_plus:cerium_dust",
     "ore_plus:deepslate_cerium_ore"
   ]
 }

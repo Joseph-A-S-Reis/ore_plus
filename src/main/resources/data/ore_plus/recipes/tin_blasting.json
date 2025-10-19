@@ -2,10 +2,10 @@
   "type": "minecraft:blasting",
   "group": "ore_plus",
   "category": "misc",
-  "experience": 0.5,
+  "experience": 0.3,
   "cookingtime": 100,
   "ingredient": {
-    "item": "ore_plus:raw_tin"
+    "tag": "ore_plus:tin"
   },
   "result": "ore_plus:tin"
 }

@@ -77,19 +77,6 @@
       "path": "~/0.0.1"
     },
     {
-      "name": "SilverOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "silver_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/silver_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
       "name": "PlatinumIngot",
       "type": "item",
       "compiles": true,
@@ -161,19 +148,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/ore_plus/recipes/platinum_block_ore_recipe.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
-      "name": "PlatinumOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "platinum_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/platinum_ore_smelting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -312,19 +286,6 @@
       "path": "~/0.0.1"
     },
     {
-      "name": "TungstenOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tungsten_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/tungsten_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
       "name": "CobaltIngot",
       "type": "item",
       "compiles": true,
@@ -401,19 +362,6 @@
       "path": "~/0.0.1"
     },
     {
-      "name": "CobaltOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cobalt_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cobalt_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
       "name": "NickelIngot",
       "type": "item",
       "compiles": true,
@@ -485,19 +433,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/ore_plus/recipes/nickel_block_ore_recipe.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
-      "name": "NickelOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "nickel_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/nickel_ore_smelting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -631,19 +566,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/ore_plus/recipes/palladium_block_ore_recipe.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
-      "name": "PalladiumOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "palladium_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/palladium_ore_smelting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1735,19 +1657,6 @@
       "path": "~/0.0.1"
     },
     {
-      "name": "NeodymiumOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "neodymium_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/neodymium_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
       "name": "LanthaniumIngot",
       "type": "item",
       "compiles": true,
@@ -1952,19 +1861,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/ore_plus/recipes/gadolinium_block_ore_recipe.json"
-        ]
-      },
-      "path": "~/0.0.1"
-    },
-    {
-      "name": "GadoliniumOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gadolinium_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/gadolinium_ore_smelting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -5012,19 +4908,6 @@
       "path": "~/0.0.2"
     },
     {
-      "name": "Gadoliniumingotsmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gadoliniumingotsmelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/gadoliniumingotsmelting.json"
-        ]
-      },
-      "path": "~/0.0.2"
-    },
-    {
       "name": "GadoliniumPickaxe",
       "type": "tool",
       "compiles": true,
@@ -5158,84 +5041,6 @@
         ]
       },
       "path": "~/0.0.2"
-    },
-    {
-      "name": "CobaltDustToIngot",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cobalt_dust_to_ingot",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cobalt_dust_to_ingot.json"
-        ]
-      },
-      "path": "~/0.0.3"
-    },
-    {
-      "name": "NeodymiumDustToIngot",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "neodymium_dust_to_ingot",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/neodymium_dust_to_ingot.json"
-        ]
-      },
-      "path": "~/0.0.3"
-    },
-    {
-      "name": "NickelDustToIngot",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "nickel_dust_to_ingot",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/nickel_dust_to_ingot.json"
-        ]
-      },
-      "path": "~/0.0.3"
-    },
-    {
-      "name": "PalladiumDustToIngot",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "palladium_dust_to_ingot",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/palladium_dust_to_ingot.json"
-        ]
-      },
-      "path": "~/0.0.3"
-    },
-    {
-      "name": "PlatinumDustToIngot",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "platinum_dust_to_ingot",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/platinum_dust_to_ingot.json"
-        ]
-      },
-      "path": "~/0.0.3"
-    },
-    {
-      "name": "TungstenDustToIngot",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tungsten_dust_to_ingot",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/tungsten_dust_to_ingot.json"
-        ]
-      },
-      "path": "~/0.0.3"
     },
     {
       "name": "Bronze",
@@ -8391,164 +8196,6 @@
       "path": "~/0.0.9"
     },
     {
-      "name": "AdamantiteSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adamantite_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/adamantite_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/adamantite_smelting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "AdamantiteIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adamantite_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/adamantite_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "TungstenIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tungsten_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/tungsten_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "PalladiumIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "palladium_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/palladium_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "NeodymiumIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "neodymium_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/neodymium_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "SilverIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "silver_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/silver_ingot_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/silver_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "PlatinumIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "platinum_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/platinum_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "CobaltIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cobalt_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cobalt_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "NickelIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "nickel_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/nickel_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "SilverIngotSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "silver_ingot_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/silver_ingot_smelting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "GadoliniumIngotBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gadolinium_ingot_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/gadolinium_ingot_blasting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
-      "name": "AdamantiteIngotSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adamantite_ingot_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/adamantite_ingot_smelting.json"
-        ]
-      },
-      "path": "~/0.0.9"
-    },
-    {
       "name": "MorganiteArmor",
       "type": "armor",
       "compiles": true,
@@ -9903,60 +9550,6 @@
       "path": "~/0.1.0"
     },
     {
-      "name": "TinSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tin_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/tin_smelting.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
-      "name": "TinBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tin_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/tin_blasting.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
-      "name": "TinOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tin_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/tin_ore_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/tin_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
-      "name": "TinOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tin_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/tin_ore_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/tin_ore_blasting.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
       "name": "TinBlock",
       "type": "block",
       "compiles": true,
@@ -10046,60 +9639,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/ore_plus/loot_tables/blocks/deepslate_zinc_ore.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
-      "name": "ZincOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "zinc_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/zinc_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/zinc_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
-      "name": "ZincOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "zinc_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/zinc_ore_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/zinc_ore_blasting.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
-      "name": "ZincSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "zinc_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/zinc_smelting.json"
-        ]
-      },
-      "path": "~/0.1.0"
-    },
-    {
-      "name": "ZincBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "zinc_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/zinc_blasting.json"
         ]
       },
       "path": "~/0.1.0"
@@ -11378,20 +10917,6 @@
       "path": "~/0.1.2"
     },
     {
-      "name": "RawSilverBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "raw_silver_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/raw_silver_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/raw_silver_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
       "name": "NickelOreDrops",
       "type": "loottable",
       "compiles": true,
@@ -11414,34 +10939,6 @@
         "files": [
           "src/main/resources/assets/ore_plus/models/item/sulfur.json",
           "src/main/java/oreplus/item/SulfurItem.java"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "SulfurSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "sulfur_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/sulfur_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/sulfur_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "SulfurBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "sulfur_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/sulfur_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/sulfur_blasting.json"
         ]
       },
       "path": "~/0.1.2"
@@ -11478,34 +10975,6 @@
       "path": "~/0.1.2"
     },
     {
-      "name": "GraphiteSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "graphite_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/graphite_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/graphite_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "GraphiteBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "graphite_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/graphite_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/graphite_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
       "name": "SulfurBlockRecipe",
       "type": "recipe",
       "compiles": true,
@@ -11514,34 +10983,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/ore_plus/recipes/sulfur_block_recipe.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "SulfurOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "sulfur_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/sulfur_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/sulfur_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "SulfurOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "sulfur_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/sulfur_ore_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/sulfur_ore_blasting.json"
         ]
       },
       "path": "~/0.1.2"
@@ -11586,90 +11027,6 @@
         "files": [
           "src/main/java/oreplus/item/BauxiteItem.java",
           "src/main/resources/assets/ore_plus/models/item/bauxite.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BauxiteSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "bauxite_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/bauxite_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/bauxite_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BauxiteBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "bauxite_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/bauxite_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/bauxite_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BauxiteOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "bauxite_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/bauxite_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/bauxite_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BauxiteOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "bauxite_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/bauxite_ore_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/bauxite_ore_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "GraphiteOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "graphite_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/graphite_ore_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/graphite_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "GraphiteOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "graphite_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/graphite_ore_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/graphite_ore_blasting.json"
         ]
       },
       "path": "~/0.1.2"
@@ -11745,62 +11102,6 @@
       "path": "~/0.1.2"
     },
     {
-      "name": "CinnabarSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cinnabar_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cinnabar_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/cinnabar_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "CinnabarBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cinnabar_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cinnabar_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/cinnabar_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "CinnabarOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cinnabar_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cinnabar_ore_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/cinnabar_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "CinnabarOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cinnabar_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cinnabar_ore_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/cinnabar_ore_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
       "name": "CinnabarBlock",
       "type": "block",
       "compiles": true,
@@ -11853,62 +11154,6 @@
         "files": [
           "src/main/java/oreplus/item/BoraxItem.java",
           "src/main/resources/assets/ore_plus/models/item/borax.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BoraxSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "borax_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/borax_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/borax_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BoraxBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "borax_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/borax_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/borax_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BoraxOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "borax_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/borax_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/borax_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "BoraxOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "borax_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/borax_ore_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/borax_ore_blasting.json"
         ]
       },
       "path": "~/0.1.2"
@@ -11971,62 +11216,6 @@
       "path": "~/0.1.2"
     },
     {
-      "name": "GalenaSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "galena_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/galena_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/galena_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "GalenaBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "galena_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/galena_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/galena_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "GalenaOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "galena_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/galena_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/galena_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "GalenaOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "galena_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/galena_ore_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/galena_ore_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
       "name": "GalenaBlock",
       "type": "block",
       "compiles": true,
@@ -12079,62 +11268,6 @@
         "files": [
           "src/main/java/oreplus/item/MagnetiteItem.java",
           "src/main/resources/assets/ore_plus/models/item/magnetite.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MagnetiteSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magnetite_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/magnetite_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/magnetite_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MagnetiteBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magnetite_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/magnetite_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/magnetite_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MagnetiteOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magnetite_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/magnetite_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/magnetite_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MagnetiteOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magnetite_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/magnetite_ore_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/magnetite_ore_blasting.json"
         ]
       },
       "path": "~/0.1.2"
@@ -12197,62 +11330,6 @@
       "path": "~/0.1.2"
     },
     {
-      "name": "HematiteSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hematite_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/hematite_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/hematite_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "HematiteBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hematite_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/hematite_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/hematite_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "HematiteOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hematite_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/hematite_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/hematite_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "HematiteOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hematite_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/hematite_ore_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/hematite_ore_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
       "name": "HematiteBlock",
       "type": "block",
       "compiles": true,
@@ -12305,62 +11382,6 @@
         "files": [
           "src/main/java/oreplus/item/MalachiteItem.java",
           "src/main/resources/assets/ore_plus/models/item/malachite.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MalachiteSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "malachite_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/malachite_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/malachite_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MalachiteBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "malachite_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/malachite_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/malachite_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MalachiteOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "malachite_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/malachite_ore_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/malachite_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "MalachiteOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "malachite_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/malachite_ore_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/malachite_ore_blasting.json"
         ]
       },
       "path": "~/0.1.2"
@@ -12423,62 +11444,6 @@
       "path": "~/0.1.2"
     },
     {
-      "name": "AzuriteSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "azurite_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/azurite_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/azurite_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "AzuriteBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "azurite_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/azurite_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/azurite_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "AzuriteOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "azurite_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/azurite_ore_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/azurite_ore_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "AzuriteOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "azurite_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/azurite_ore_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/azurite_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
       "name": "AzuriteBlock",
       "type": "block",
       "compiles": true,
@@ -12531,62 +11496,6 @@
         "files": [
           "src/main/java/oreplus/item/CeriumItem.java",
           "src/main/resources/assets/ore_plus/models/item/cerium.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "CeriumSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cerium_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/cerium_smelting.json",
-          "src/main/resources/data/ore_plus/recipes/cerium_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "CeriumBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cerium_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/advancements/recipes/cerium_blasting.json",
-          "src/main/resources/data/ore_plus/recipes/cerium_blasting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "CeriumOreSmelting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cerium_ore_smelting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cerium_ore_smelting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/cerium_ore_smelting.json"
-        ]
-      },
-      "path": "~/0.1.2"
-    },
-    {
-      "name": "CeriumOreBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cerium_ore_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/cerium_ore_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/cerium_ore_blasting.json"
         ]
       },
       "path": "~/0.1.2"
@@ -14882,20 +13791,6 @@
       "path": "~/0.1.3"
     },
     {
-      "name": "GadoliniumBlasting",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gadolinium_blasting",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/ore_plus/recipes/gadolinium_blasting.json",
-          "src/main/resources/data/ore_plus/advancements/recipes/gadolinium_blasting.json"
-        ]
-      },
-      "path": "~/0.1.3"
-    },
-    {
       "name": "RawAdamantite",
       "type": "item",
       "compiles": true,
@@ -15489,6 +14384,1808 @@
         ]
       },
       "path": "~/0.1.4"
+    },
+    {
+      "name": "MolybdenumBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molybdenum_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/loot_tables/blocks/molybdenum_block.json",
+          "src/main/resources/assets/ore_plus/models/item/molybdenum_block.json",
+          "src/main/resources/assets/ore_plus/models/block/molybdenum_block.json",
+          "src/main/resources/assets/ore_plus/blockstates/molybdenum_block.json",
+          "src/main/java/oreplus/block/MolybdenumBlockBlock.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MolybdenumBlockCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molybdenum_block_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/molybdenum_block_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MolybdenumCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molybdenum_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/molybdenum_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NiobiumBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/block/niobium_block.json",
+          "src/main/java/oreplus/block/NiobiumBlockBlock.java",
+          "src/main/resources/data/ore_plus/loot_tables/blocks/niobium_block.json",
+          "src/main/resources/assets/ore_plus/blockstates/niobium_block.json",
+          "src/main/resources/assets/ore_plus/models/item/niobium_block.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NiobiumBlockCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_block_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/niobium_block_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NiobiumCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/niobium_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_block",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/block/SpinelBlockBlock.java",
+          "src/main/resources/data/ore_plus/loot_tables/blocks/spinel_block.json",
+          "src/main/resources/assets/ore_plus/models/item/spinel_block.json",
+          "src/main/resources/assets/ore_plus/blockstates/spinel_block.json",
+          "src/main/resources/assets/ore_plus/models/block/spinel_block.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelBlockCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_block_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_block_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/spinel_sword.json",
+          "src/main/java/oreplus/item/SpinelSwordItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/spinel_pickaxe.json",
+          "src/main/java/oreplus/item/SpinelPickaxeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/spinel_axe.json",
+          "src/main/java/oreplus/item/SpinelAxeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/spinel_shovel.json",
+          "src/main/java/oreplus/item/SpinelShovelItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/spinel_hoe.json",
+          "src/main/java/oreplus/item/SpinelHoeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelSwordCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_sword_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_sword_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelPickaxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_pickaxe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_pickaxe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelAxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_axe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_axe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelShovelCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_shovel_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_shovel_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelHoeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_hoe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_hoe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/SpinelArmorItem.java",
+          "src/main/resources/assets/ore_plus/models/item/spinel_armor_boots.json",
+          "src/main/resources/assets/ore_plus/models/item/spinel_armor_helmet.json",
+          "src/main/resources/assets/ore_plus/models/item/spinel_armor_chestplate.json",
+          "src/main/resources/assets/ore_plus/models/item/spinel_armor_leggings.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelHelmetCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_helmet_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_helmet_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelChestplateCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_chestplate_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_chestplate_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelLeggingsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_leggings_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_leggings_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelBootsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_boots_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/spinel_boots_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/kyanite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/kyanite_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/kyanite_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/kyanite_block.json",
+          "src/main/resources/assets/ore_plus/blockstates/kyanite_block.json",
+          "src/main/java/oreplus/block/KyaniteBlockBlock.java",
+          "src/main/resources/data/ore_plus/loot_tables/blocks/kyanite_block.json",
+          "src/main/resources/assets/ore_plus/models/block/kyanite_block.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteBlockCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_block_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_block_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/KyaniteSwordItem.java",
+          "src/main/resources/assets/ore_plus/models/item/kyanite_sword.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyanitePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/kyanite_pickaxe.json",
+          "src/main/java/oreplus/item/KyanitePickaxeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/KyaniteAxeItem.java",
+          "src/main/resources/assets/ore_plus/models/item/kyanite_axe.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/KyaniteShovelItem.java",
+          "src/main/resources/assets/ore_plus/models/item/kyanite_shovel.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/kyanite_hoe.json",
+          "src/main/java/oreplus/item/KyaniteHoeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteSwordCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_sword_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_sword_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyanitePickaxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_pickaxe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_pickaxe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteAxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_axe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_axe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteShovelCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_shovel_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_shovel_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteHoeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_hoe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_hoe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/kyanite_armor_leggings.json",
+          "src/main/resources/assets/ore_plus/models/item/kyanite_armor_boots.json",
+          "src/main/java/oreplus/item/KyaniteArmorItem.java",
+          "src/main/resources/assets/ore_plus/models/item/kyanite_armor_helmet.json",
+          "src/main/resources/assets/ore_plus/models/item/kyanite_armor_chestplate.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteHelmetCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_helmet_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_helmet_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteChestplateCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_chestplate_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_chestplate_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteLeggingsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_leggings_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_leggings_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "KyaniteBootsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyanite_boots_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/kyanite_boots_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_block",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/block/BismuthBlockBlock.java",
+          "src/main/resources/assets/ore_plus/models/block/bismuth_block.json",
+          "src/main/resources/data/ore_plus/loot_tables/blocks/bismuth_block.json",
+          "src/main/resources/assets/ore_plus/blockstates/bismuth_block.json",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_block.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthBlockCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_block_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_block_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/bismuth_sword.json",
+          "src/main/java/oreplus/item/BismuthSwordItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/BismuthPickaxeItem.java",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_pickaxe.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/BismuthAxeItem.java",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_axe.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/BismuthShovelItem.java",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_shovel.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/item/BismuthHoeItem.java",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_hoe.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthSwordCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_sword_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_sword_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthPickaxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_pickaxe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_pickaxe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthAxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_axe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_axe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthShovelCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_shovel_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_shovel_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthHoeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_hoe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_hoe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/bismuth_armor_chestplate.json",
+          "src/main/java/oreplus/item/BismuthArmorItem.java",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_armor_boots.json",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_armor_helmet.json",
+          "src/main/resources/assets/ore_plus/models/item/bismuth_armor_leggings.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthHelmetCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_helmet_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_helmet_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthChestplateCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_chestplate_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_chestplate_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthLeggingsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_leggings_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_leggings_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthBootsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_boots_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_boots_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthIngotSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ingot_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_ingot_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/bismuth_ingot_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BismuthIngotBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ingot_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/bismuth_ingot_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/bismuth_ingot_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumIngotSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ingot_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_ingot_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/osmium_ingot_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumIngotBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ingot_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/osmium_ingot_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/osmium_ingot_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_block",
+      "metadata": {
+        "files": [
+          "src/main/java/oreplus/block/OsmiumBlockBlock.java",
+          "src/main/resources/assets/ore_plus/models/block/osmium_block.json",
+          "src/main/resources/assets/ore_plus/blockstates/osmium_block.json",
+          "src/main/resources/data/ore_plus/loot_tables/blocks/osmium_block.json",
+          "src/main/resources/assets/ore_plus/models/item/osmium_block.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumBlockCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_block_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_block_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumIngotCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ingot_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_ingot_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/osmium_sword.json",
+          "src/main/java/oreplus/item/OsmiumSwordItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/osmium_pickaxe.json",
+          "src/main/java/oreplus/item/OsmiumPickaxeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/osmium_axe.json",
+          "src/main/java/oreplus/item/OsmiumAxeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/osmium_shovel.json",
+          "src/main/java/oreplus/item/OsmiumShovelItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/osmium_hoe.json",
+          "src/main/java/oreplus/item/OsmiumHoeItem.java"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumSwordCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_sword_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_sword_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumPickaxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_pickaxe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_pickaxe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumAxeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_axe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_axe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumShovelCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_shovel_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_shovel_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumHoeCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_hoe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_hoe_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_plus/models/item/osmium_armor_helmet.json",
+          "src/main/resources/assets/ore_plus/models/item/osmium_armor_boots.json",
+          "src/main/java/oreplus/item/OsmiumArmorItem.java",
+          "src/main/resources/assets/ore_plus/models/item/osmium_armor_leggings.json",
+          "src/main/resources/assets/ore_plus/models/item/osmium_armor_chestplate.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumHelmetCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_helmet_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_helmet_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumChestplateCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_chestplate_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_chestplate_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumLeggingsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_leggings_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_leggings_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "OsmiumBootsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_boots_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/osmium_boots_crafting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/spinel_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/spinel_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SpinelBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spinel_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/spinel_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/spinel_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SilverIngotSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/silver_ingot_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/silver_ingot_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SilverIngotBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/silver_ingot_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/silver_ingot_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "AdamantiteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adamantite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/adamantite_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/adamantite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "AdamantiteBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adamantite_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/adamantite_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/adamantite_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "CobaltSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobalt_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/cobalt_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/cobalt_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "CobaltBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobalt_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/cobalt_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/cobalt_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "GadoliniumSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gadolinium_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/gadolinium_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/gadolinium_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "GadoliniumBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gadolinium_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/gadolinium_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/gadolinium_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NeodymiumSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neodymium_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/neodymium_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/neodymium_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NeodymiumBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neodymium_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/neodymium_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/neodymium_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NickelSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/nickel_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/nickel_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "NickelBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/nickel_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/nickel_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "PalladiumSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palladium_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/palladium_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/palladium_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "PalladiumBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palladium_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/palladium_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/palladium_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "PlatinumSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/platinum_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/platinum_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "PlatinumBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/platinum_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/platinum_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "TinSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/tin_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "TinBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tin_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/tin_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "ZincSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/zinc_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/zinc_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "ZincBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zinc_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/zinc_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/zinc_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "TungstenSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/tungsten_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/tungsten_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "TungstenBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/tungsten_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/tungsten_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SulfurSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulfur_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/sulfur_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/sulfur_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "SulfurBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulfur_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/sulfur_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/sulfur_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "GraphiteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/graphite_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/graphite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "GraphiteBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphite_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/graphite_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/graphite_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BauxiteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bauxite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/bauxite_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/bauxite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BauxiteBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bauxite_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/bauxite_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/bauxite_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "CinnabarSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cinnabar_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/cinnabar_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/cinnabar_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "CinnabarBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cinnabar_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/cinnabar_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/cinnabar_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BoraxSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borax_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/borax_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/borax_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "BoraxBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borax_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/borax_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/borax_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "GalenaSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galena_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/galena_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/galena_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "GalenaBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galena_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/galena_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/galena_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MagnetiteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnetite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/magnetite_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/magnetite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MagnetiteBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnetite_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/magnetite_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/magnetite_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "HematiteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hematite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/hematite_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/hematite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "HematiteBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hematite_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/hematite_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/hematite_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MalachiteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "malachite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/malachite_smelting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/malachite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "MalachiteBlasiting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "malachite_blasiting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/malachite_blasiting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/malachite_blasiting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "AzuriteSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azurite_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/azurite_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/azurite_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "AzuriteBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azurite_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/recipes/azurite_blasting.json",
+          "src/main/resources/data/ore_plus/advancements/recipes/azurite_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "CeriumSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerium_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/cerium_smelting.json",
+          "src/main/resources/data/ore_plus/recipes/cerium_smelting.json"
+        ]
+      },
+      "path": "~/0.1.4"
+    },
+    {
+      "name": "CeriumBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerium_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_plus/advancements/recipes/cerium_blasting.json",
+          "src/main/resources/data/ore_plus/recipes/cerium_blasting.json"
+        ]
+      },
+      "path": "~/0.1.4"
     }
   ],
   "variable_elements": [],
@@ -15503,11 +16200,13 @@
       "~CUSTOM:AethelgardDebris",
       "~CUSTOM:DeepslateVoidstoneOre",
       "~CUSTOM:VoidstoneOre",
-      "~CUSTOM:CelestiumOre",
-      "~CUSTOM:ChromiumBlock",
-      "~CUSTOM:PlatinumBlock"
+      "~CUSTOM:CelestiumOre"
     ],
     "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:PlatinumBlock",
+      "~CUSTOM:ChromiumBlock",
+      "~CUSTOM:KyaniteBlock",
+      "~CUSTOM:SpinelBlock",
       "~CUSTOM:DeepslateKyaniteOre",
       "~CUSTOM:KyaniteOre",
       "~CUSTOM:DeepslateSpinelOre",
@@ -15540,11 +16239,7 @@
       "~CUSTOM:DeepslateSapphireOre",
       "~CUSTOM:DeepslateRubyOre",
       "~CUSTOM:DeepslateBauxiteOre",
-      "~CUSTOM:DeepslateNickelOre",
-      "~CUSTOM:DeepslateCobaltOre",
-      "~CUSTOM:DeepslatePlatinumOre",
       "~CUSTOM:DeepslateSilverOre",
-      "~CUSTOM:AdamantiteOre",
       "~CUSTOM:FluoriteBlock",
       "~CUSTOM:FluoriteOre",
       "~CUSTOM:RhodochrositeBlock",
@@ -15556,7 +16251,6 @@
       "~CUSTOM:AlexandriteBlock",
       "~CUSTOM:AlexandriteOre",
       "~CUSTOM:GadoliniumBlock",
-      "~CUSTOM:GadoliniumOre",
       "~CUSTOM:YttriumBlock",
       "~CUSTOM:LanthaniumBlock",
       "~CUSTOM:NeodymiumBlock",
@@ -15576,19 +16270,20 @@
       "~CUSTOM:RubyBlock",
       "~CUSTOM:RubyOre",
       "~CUSTOM:PalladiumBlock",
-      "~CUSTOM:PalladiumOre",
       "~CUSTOM:NickelBlock",
-      "~CUSTOM:NickelOre",
       "~CUSTOM:CobaltBlock",
-      "~CUSTOM:CobaltOre",
       "~CUSTOM:TungstenBlock",
       "~CUSTOM:TungstenOre",
       "~CUSTOM:TitaniumBlock",
-      "~CUSTOM:PlatinumOre",
-      "~CUSTOM:SilverBlock",
-      "~CUSTOM:SilverOre"
+      "~CUSTOM:SilverBlock"
     ],
     "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:OsmiumBlock",
+      "~CUSTOM:BismuthBlock",
+      "~CUSTOM:KyaniteBlock",
+      "~CUSTOM:SpinelBlock",
+      "~CUSTOM:NiobiumBlock",
+      "~CUSTOM:MolybdenumBlock",
       "~CUSTOM:DeepslateKyaniteOre",
       "~CUSTOM:KyaniteOre",
       "~CUSTOM:DeepslateSpinelOre",
@@ -15717,6 +16412,20 @@
       "~CUSTOM:SilverOre"
     ],
     "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:SilverOre",
+      "~CUSTOM:DeepslatePlatinumOre",
+      "~CUSTOM:PlatinumOre",
+      "~CUSTOM:PalladiumOre",
+      "~CUSTOM:DeepslateNickelOre",
+      "~CUSTOM:NickelOre",
+      "~CUSTOM:GadoliniumOre",
+      "~CUSTOM:DeepslateCobaltOre",
+      "~CUSTOM:CobaltOre",
+      "~CUSTOM:AdamantiteOre",
+      "~CUSTOM:OsmiumBlock",
+      "~CUSTOM:BismuthBlock",
+      "~CUSTOM:NiobiumBlock",
+      "~CUSTOM:MolybdenumBlock",
       "~CUSTOM:DeepslateOsmiumOre",
       "~CUSTOM:DeepslateBismuthOre",
       "~CUSTOM:BismuthOre",
@@ -15754,6 +16463,10 @@
       "~CUSTOM:SulfurOre"
     ],
     "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:OsmiumPickaxe",
+      "~CUSTOM:BismuthPickaxe",
+      "~CUSTOM:KyanitePickaxe",
+      "~CUSTOM:SpinelPickaxe",
       "~CUSTOM:FluoritePickaxe",
       "~CUSTOM:RhodochrositePickaxe",
       "~CUSTOM:AlexandritePickaxe",
@@ -15798,6 +16511,10 @@
       "~CUSTOM:TitaniumPickaxe"
     ],
     "ITEMS:minecraft:axes": [
+      "~CUSTOM:OsmiumAxe",
+      "~CUSTOM:BismuthAxe",
+      "~CUSTOM:KyaniteAxe",
+      "~CUSTOM:SpinelAxe",
       "~CUSTOM:FluoriteAxe",
       "~CUSTOM:RhodochrositeAxe",
       "~CUSTOM:AlexandriteAxe",
@@ -15840,6 +16557,10 @@
       "~CUSTOM:TitaniumAxe"
     ],
     "ITEMS:minecraft:hoes": [
+      "~CUSTOM:OsmiumHoe",
+      "~CUSTOM:BismuthHoe",
+      "~CUSTOM:KyaniteHoe",
+      "~CUSTOM:SpinelHoe",
       "~CUSTOM:FluoriteHoe",
       "~CUSTOM:RhodochrositeHoe",
       "~CUSTOM:AlexandriteHoe",
@@ -15880,6 +16601,10 @@
       "~CUSTOM:TitaniumHoe"
     ],
     "ITEMS:minecraft:swords": [
+      "~CUSTOM:OsmiumSword",
+      "~CUSTOM:BismuthSword",
+      "~CUSTOM:KyaniteSword",
+      "~CUSTOM:SpinelSword",
       "~CUSTOM:FluoriteSword",
       "~CUSTOM:RhodochrositeSword",
       "~CUSTOM:AlexandriteSword",
@@ -15934,54 +16659,21 @@
       "CUSTOM:LanthaniumIngot",
       "CUSTOM:YttriumIngot",
       "CUSTOM:Gadoliniumingot",
-      "CUSTOM:SulfurIngot",
-      "CUSTOM:GraphiteIngot",
-      "CUSTOM:BauxiteIngot",
-      "CUSTOM:CinnabarIngot",
-      "CUSTOM:BoraxIngot",
-      "CUSTOM:GalenaIngot",
-      "CUSTOM:MagnetiteIngot",
-      "CUSTOM:HematiteIngot",
-      "CUSTOM:MalachiteIngot",
-      "CUSTOM:AzuriteIngot",
-      "CUSTOM:CeriumIngot",
+      "CUSTOM:AethelgardIngot",
+      "CUSTOM:ObsidianiteIngot",
+      "CUSTOM:PyraliteIngot",
+      "CUSTOM:BismuthIngot",
+      "CUSTOM:OsmiumIngot",
       "Items.IRON_INGOT",
       "Items.COPPER_INGOT",
       "Items.GOLD_INGOT",
-      "Items.NETHERITE_INGOT",
-      "CUSTOM:Ruby",
-      "CUSTOM:Sapphire",
-      "CUSTOM:Topaz",
-      "CUSTOM:Aquamarine",
-      "CUSTOM:Garnet",
-      "CUSTOM:Opal",
-      "CUSTOM:Tanzanite",
-      "CUSTOM:Morganite",
-      "CUSTOM:Alexandrite",
-      "CUSTOM:Peridot",
-      "CUSTOM:Zircon",
-      "CUSTOM:Rhodochrosite",
-      "CUSTOM:Fluorite",
-      "CUSTOM:Bronze",
-      "CUSTOM:Brass",
-      "CUSTOM:Steel",
-      "CUSTOM:Electrum",
-      "CUSTOM:RoseGold",
-      "CUSTOM:Tin",
-      "CUSTOM:Zinc",
-      "CUSTOM:Adamantite",
-      "CUSTOM:Orichalcum",
-      "CUSTOM:Mithril",
-      "CUSTOM:Celestium",
-      "CUSTOM:Voidstone",
-      "CUSTOM:Aetherium",
-      "Items.DYE#4",
-      "Items.DIAMOND",
-      "Items.EMERALD",
-      "Items.QUARTZ",
-      "Items.AMETHYST_SHARD"
+      "Items.NETHERITE_INGOT"
     ],
     "ITEMS:minecraft:shovels": [
+      "~CUSTOM:OsmiumShovel",
+      "~CUSTOM:BismuthShovel",
+      "~CUSTOM:KyaniteShovel",
+      "~CUSTOM:SpinelShovel",
       "~CUSTOM:FluoriteShovel",
       "~CUSTOM:RhodochrositeShovel",
       "~CUSTOM:AlexandriteShovel",
@@ -16124,75 +16816,59 @@
       "Blocks.QUARTZ_ORE",
       "Blocks.NETHER_GOLD_ORE"
     ],
-    "ITEMS:ore_plus:tin_ore": [
-      "CUSTOM:TinOre",
-      "CUSTOM:DeepslateTinOre"
-    ],
-    "ITEMS:ore_plus:zinc_ore": [
-      "CUSTOM:ZincOre",
-      "CUSTOM:DeepslateZincOre"
-    ],
     "ITEMS:ore_plus:fuel": [
       "CUSTOM:Carbon",
       "CUSTOM:CarbonBlock"
     ],
-    "ITEMS:ore_plus:ingots": [
-      "CUSTOM:SilverIngot",
-      "CUSTOM:PlatinumIngot",
-      "CUSTOM:TitaniumIngot",
-      "CUSTOM:TungstenIngot",
-      "CUSTOM:CobaltIngot",
-      "CUSTOM:NickelIngot",
-      "CUSTOM:ChromiumIngot",
-      "CUSTOM:PalladiumIngot",
-      "CUSTOM:NeodymiumIngot",
-      "CUSTOM:LanthaniumIngot",
-      "CUSTOM:YttriumIngot",
-      "CUSTOM:Gadoliniumingot",
-      "Items.IRON_INGOT",
-      "Items.COPPER_INGOT",
-      "Items.GOLD_INGOT",
-      "Items.NETHERITE_INGOT"
-    ],
     "ITEMS:ore_plus:graphite": [
       "CUSTOM:GraphiteOre",
-      "CUSTOM:DeepslateGraphiteOre"
+      "CUSTOM:DeepslateGraphiteOre",
+      "CUSTOM:GraphiteDust"
     ],
     "ITEMS:ore_plus:bauxite": [
       "CUSTOM:BauxiteOre",
-      "CUSTOM:DeepslateBauxiteOre"
+      "CUSTOM:DeepslateBauxiteOre",
+      "CUSTOM:BauxiteDust"
     ],
     "ITEMS:ore_plus:cinnabar": [
       "CUSTOM:CinnabarOre",
-      "CUSTOM:DeepslateCinnabar"
+      "CUSTOM:DeepslateCinnabar",
+      "CUSTOM:CinnabarDust"
     ],
     "ITEMS:ore_plus:borax": [
       "CUSTOM:BoraxOre",
-      "CUSTOM:DeepslateBoraxOre"
+      "CUSTOM:DeepslateBoraxOre",
+      "CUSTOM:BoraxDust"
     ],
     "ITEMS:ore_plus:galena": [
       "CUSTOM:GalenaOre",
-      "CUSTOM:DeepslateGalenaOre"
+      "CUSTOM:DeepslateGalenaOre",
+      "CUSTOM:GalenaDust"
     ],
     "ITEMS:ore_plus:magnetite": [
       "CUSTOM:MagnetiteOre",
-      "CUSTOM:DeepslateMagnetiteOre"
+      "CUSTOM:DeepslateMagnetiteOre",
+      "CUSTOM:MagnetiteDust"
     ],
     "ITEMS:ore_plus:hematite": [
       "CUSTOM:HematiteOre",
-      "CUSTOM:DeepslateHematiteOre"
+      "CUSTOM:DeepslateHematiteOre",
+      "CUSTOM:HematiteDust"
     ],
     "ITEMS:ore_plus:malachite": [
       "CUSTOM:MalachiteOre",
-      "CUSTOM:DeepslateMalachiteOre"
+      "CUSTOM:DeepslateMalachiteOre",
+      "CUSTOM:MalachiteDust"
     ],
     "ITEMS:ore_plus:azurite": [
       "CUSTOM:AzuriteOre",
-      "CUSTOM:DeepslateAzuriteOre"
+      "CUSTOM:DeepslateAzuriteOre",
+      "CUSTOM:AzuriteDust"
     ],
     "ITEMS:ore_plus:cerium": [
       "CUSTOM:CeriumOre",
-      "CUSTOM:DeepslateCeriumOre"
+      "CUSTOM:DeepslateCeriumOre",
+      "CUSTOM:CeriumDust"
     ],
     "ITEMS:ore_plus:gems": [
       "CUSTOM:Ruby",
@@ -16206,10 +16882,46 @@
       "CUSTOM:Peridot",
       "CUSTOM:Zircon",
       "CUSTOM:Rhodochrosite",
-      "CUSTOM:Fluorite"
+      "CUSTOM:Fluorite",
+      "CUSTOM:Opal",
+      "CUSTOM:Celestium",
+      "CUSTOM:Voidstone",
+      "CUSTOM:Aetherium",
+      "CUSTOM:AetheriumStar",
+      "CUSTOM:Spinel",
+      "CUSTOM:Kyanite"
     ],
-    "ITEMS:ore_plus:cubes": [
-      "CUSTOM:Sulfur",
+    "ITEMS:ore_plus:gadolinium": [
+      "CUSTOM:GadoliniumOre",
+      "CUSTOM:DeepslateGadoliniumOre",
+      "CUSTOM:RawGadolinium"
+    ],
+    "ITEMS:ore_plus:molybdenum": [
+      "CUSTOM:DeepslateMolybdenumOre",
+      "CUSTOM:MolybdenumDust"
+    ],
+    "ITEMS:ore_plus:niobium": [
+      "CUSTOM:DeepslateNiobiumOre",
+      "CUSTOM:NiobiumDust"
+    ],
+    "ITEMS:ore_plus:kyanite": [
+      "CUSTOM:KyaniteOre",
+      "CUSTOM:DeepslateKyaniteOre"
+    ],
+    "ITEMS:ore_plus:bismuth": [
+      "CUSTOM:BismuthOre",
+      "CUSTOM:DeepslateBismuthOre",
+      "CUSTOM:RawBismuth"
+    ],
+    "ITEMS:ore_plus:osmium": [
+      "CUSTOM:DeepslateOsmiumOre",
+      "CUSTOM:RawOsmium"
+    ],
+    "ITEMS:ore_plus:spinel": [
+      "CUSTOM:SpinelOre",
+      "CUSTOM:DeepslateSpinelOre"
+    ],
+    "ITEMS:ore_plus:chunks": [
       "CUSTOM:Graphite",
       "CUSTOM:Bauxite",
       "CUSTOM:Cinnabar",
@@ -16219,19 +16931,62 @@
       "CUSTOM:Hematite",
       "CUSTOM:Malachite",
       "CUSTOM:Azurite",
-      "CUSTOM:Cerium"
+      "CUSTOM:Cerium",
+      "CUSTOM:Molybdenum",
+      "CUSTOM:Niobium"
     ],
-    "ITEMS:ore_plus:gadolinium": [
-      "CUSTOM:GadoliniumOre",
-      "CUSTOM:DeepslateGadoliniumOre"
+    "ITEMS:ore_plus:silver": [
+      "CUSTOM:SilverOre",
+      "CUSTOM:DeepslateSilverOre",
+      "CUSTOM:RawSilver"
     ],
-    "ITEMS:ore_plus:molybdenum": [
-      "CUSTOM:DeepslateMolybdenumOre",
-      "CUSTOM:MolybdenumDust"
+    "ITEMS:ore_plus:adamantite": [
+      "CUSTOM:AdamantiteOre",
+      "CUSTOM:RawAdamantite"
     ],
-    "ITEMS:ore_plus:niobium": [
-      "CUSTOM:DeepslateNiobiumOre",
-      "CUSTOM:NiobiumDust"
+    "ITEMS:ore_plus:cobalt": [
+      "CUSTOM:CobaltOre",
+      "CUSTOM:DeepslateCobaltOre",
+      "CUSTOM:RawCobalt"
+    ],
+    "ITEMS:ore_plus:neodymium": [
+      "CUSTOM:NeodymiumOre",
+      "CUSTOM:DeepslateNeodymiumOre",
+      "CUSTOM:RawNeodymium"
+    ],
+    "ITEMS:ore_plus:nickel": [
+      "CUSTOM:NickelOre",
+      "CUSTOM:DeepslateNickelOre",
+      "CUSTOM:RawNickel"
+    ],
+    "ITEMS:ore_plus:palladium": [
+      "CUSTOM:PalladiumIngot",
+      "CUSTOM:PalladiumOre",
+      "CUSTOM:DeepslatePalladiumOre"
+    ],
+    "ITEMS:ore_plus:platinum": [
+      "CUSTOM:PlatinumOre",
+      "CUSTOM:DeepslatePlatinumOre",
+      "CUSTOM:RawPlatinum"
+    ],
+    "ITEMS:ore_plus:tin": [
+      "CUSTOM:TinOre",
+      "CUSTOM:DeepslateTinOre",
+      "CUSTOM:RawTin"
+    ],
+    "ITEMS:ore_plus:tungsten": [
+      "CUSTOM:TungstenOre",
+      "CUSTOM:DeepslateTungstenOre",
+      "CUSTOM:RawTungsten"
+    ],
+    "ITEMS:ore_plus:zinc": [
+      "CUSTOM:ZincOre",
+      "CUSTOM:DeepslateZincOre",
+      "CUSTOM:RawZinc"
+    ],
+    "ITEMS:ore_plus:sulfur": [
+      "CUSTOM:SulfurDust",
+      "CUSTOM:SulfurOre"
     ]
   },
   "tab_element_order": {},
@@ -16813,7 +17568,49 @@
       "item.ore_plus.molybdenum_dust": "Molybdenum Dust",
       "item.ore_plus.niobium_dust": "Niobium Dust",
       "item.ore_plus.raw_bismuth": "Raw Bismuth",
-      "item.ore_plus.raw_osmium": "Raw Osmium"
+      "item.ore_plus.raw_osmium": "Raw Osmium",
+      "block.ore_plus.molybdenum_block": "Molybdenum Block",
+      "block.ore_plus.niobium_block": "Niobium Block",
+      "block.ore_plus.spinel_block": "Spinel Block",
+      "item.ore_plus.spinel_sword": "Spinel Sword",
+      "item.ore_plus.spinel_pickaxe": "Spinel Pickaxe",
+      "item.ore_plus.spinel_axe": "Spinel Axe",
+      "item.ore_plus.spinel_shovel": "Spinel Shovel",
+      "item.ore_plus.spinel_hoe": "Spinel Hoe",
+      "item.ore_plus.spinel_armor_chestplate": "Spinel Chestplate",
+      "item.ore_plus.spinel_armor_boots": "Spinel Boots",
+      "item.ore_plus.spinel_armor_leggings": "Spinel Leggings",
+      "item.ore_plus.spinel_armor_helmet": "Spinel Helmet",
+      "block.ore_plus.kyanite_block": "Kyanite Block",
+      "item.ore_plus.kyanite_sword": "Kyanite Sword",
+      "item.ore_plus.kyanite_pickaxe": "Kyanite Pickaxe",
+      "item.ore_plus.kyanite_axe": "Kyanite Axe",
+      "item.ore_plus.kyanite_shovel": "Kyanite Shovel",
+      "item.ore_plus.kyanite_hoe": "Kyanite Hoe",
+      "item.ore_plus.kyanite_armor_chestplate": "Kyanite Chestplate",
+      "item.ore_plus.kyanite_armor_leggings": "Kyanite Leggings",
+      "item.ore_plus.kyanite_armor_helmet": "Kyanite Helmet",
+      "item.ore_plus.kyanite_armor_boots": "Kyanite Boots",
+      "block.ore_plus.bismuth_block": "Bismuth Block",
+      "item.ore_plus.bismuth_sword": "Bismuth Sword",
+      "item.ore_plus.bismuth_pickaxe": "Bismuth Pickaxe",
+      "item.ore_plus.bismuth_axe": "Bismuth Axe",
+      "item.ore_plus.bismuth_shovel": "Bismuth Shovel",
+      "item.ore_plus.bismuth_hoe": "Bismuth Hoe",
+      "item.ore_plus.bismuth_armor_boots": "Bismuth Boots",
+      "item.ore_plus.bismuth_armor_chestplate": "Bismuth Chestplate",
+      "item.ore_plus.bismuth_armor_helmet": "Bismuth Helmet",
+      "item.ore_plus.bismuth_armor_leggings": "Bismuth Leggings",
+      "block.ore_plus.osmium_block": "Osmium Block",
+      "item.ore_plus.osmium_sword": "Osmium Sword",
+      "item.ore_plus.osmium_pickaxe": "Osmium Pickaxe",
+      "item.ore_plus.osmium_axe": "Osmium Axe",
+      "item.ore_plus.osmium_shovel": "Osmium Shovel",
+      "item.ore_plus.osmium_hoe": "Osmium Hoe",
+      "item.ore_plus.osmium_armor_helmet": "Osmium Helmet",
+      "item.ore_plus.osmium_armor_leggings": "Osmium Leggings",
+      "item.ore_plus.osmium_armor_chestplate": "Osmium Chestplate",
+      "item.ore_plus.osmium_armor_boots": "Osmium Boots"
     }
   },
   "metadata": {

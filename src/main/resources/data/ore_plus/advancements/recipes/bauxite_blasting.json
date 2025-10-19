@@ -12,7 +12,7 @@
         "items": [
           {
             "items": [
-              "ore_plus:bauxite"
+              "#ore_plus:bauxite"
             ]
           }
         ]

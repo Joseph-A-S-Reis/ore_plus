@@ -5,7 +5,7 @@
   "experience": 0.3,
   "cookingtime": 200,
   "ingredient": {
-    "item": "ore_plus:bauxite_dust"
+    "tag": "ore_plus:bauxite"
   },
   "result": "ore_plus:bauxite"
 }

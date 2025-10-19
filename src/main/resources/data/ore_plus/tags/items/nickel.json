@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:deepslate_nickel_ore",
+    "ore_plus:raw_nickel",
+    "ore_plus:nickel_ore"
+  ]
+}

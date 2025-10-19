@@ -13,8 +13,10 @@
     "ore_plus:electrum_hoe",
     "ore_plus:titanium_hoe",
     "ore_plus:rhodochrosite_hoe",
+    "ore_plus:osmium_hoe",
     "ore_plus:lanthanium_hoe",
     "ore_plus:orichalcum_hoe",
+    "ore_plus:bismuth_hoe",
     "ore_plus:zinc_hoe",
     "ore_plus:bronze_hoe",
     "ore_plus:alexandrite_hoe",
@@ -26,6 +28,7 @@
     "ore_plus:gadolinium_hoe",
     "ore_plus:rose_gold_hoe",
     "ore_plus:nickel_hoe",
+    "ore_plus:spinel_hoe",
     "ore_plus:cobalt_hoe",
     "ore_plus:aethelgard_hoe",
     "ore_plus:pyralite_shovel",
@@ -38,6 +41,7 @@
     "ore_plus:garnetgem_hoe",
     "ore_plus:tin_hoe",
     "ore_plus:yttrium_hoe",
-    "ore_plus:obsidianite_hoe"
+    "ore_plus:obsidianite_hoe",
+    "ore_plus:kyanite_hoe"
   ]
 }

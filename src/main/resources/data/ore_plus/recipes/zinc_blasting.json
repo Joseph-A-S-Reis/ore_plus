@@ -2,10 +2,10 @@
   "type": "minecraft:blasting",
   "group": "ore_plus",
   "category": "misc",
-  "experience": 0.8,
+  "experience": 0.3,
   "cookingtime": 100,
   "ingredient": {
-    "item": "ore_plus:raw_zinc"
+    "tag": "ore_plus:zinc"
   },
   "result": "ore_plus:zinc"
 }

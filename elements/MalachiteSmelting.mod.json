@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:MalachiteDust"
+        "value": "TAG:ore_plus:malachite"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:MalachiteDust"
+      "value": "TAG:ore_plus:malachite"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Malachite"

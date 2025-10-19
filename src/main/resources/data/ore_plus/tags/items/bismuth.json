@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:raw_bismuth",
+    "ore_plus:bismuth_ore",
+    "ore_plus:deepslate_bismuth_ore"
+  ]
+}

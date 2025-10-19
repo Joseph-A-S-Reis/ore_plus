@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:tungsten"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.3,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "TAG:ore_plus:tungsten"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:TungstenIngot"
+    },
+    "name": "tungsten_blasting",
+    "namespace": "mod"
+  }
+}

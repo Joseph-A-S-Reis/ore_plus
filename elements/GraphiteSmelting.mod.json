@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:GraphiteDust"
+        "value": "TAG:ore_plus:graphite"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:GraphiteDust"
+      "value": "TAG:ore_plus:graphite"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Graphite"

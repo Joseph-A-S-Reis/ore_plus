@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ore_plus",
+  "category": "misc",
+  "experience": 0.3,
+  "cookingtime": 100,
+  "ingredient": {
+    "tag": "ore_plus:bismuth"
+  },
+  "result": "ore_plus:bismuth_ingot"
+}

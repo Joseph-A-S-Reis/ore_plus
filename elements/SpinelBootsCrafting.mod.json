@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Spinel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Spinel"
+      },
+      {
+        "value": "CUSTOM:Spinel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Spinel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpinelArmor.boots"
+    },
+    "name": "spinel_boots_crafting",
+    "namespace": "mod"
+  }
+}

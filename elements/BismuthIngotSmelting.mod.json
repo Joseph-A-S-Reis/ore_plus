@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "ore_plus",
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:bismuth"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.3,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:ore_plus:bismuth"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BismuthIngot"
+    },
+    "name": "bismuth_ingot_smelting",
+    "namespace": "mod"
+  }
+}

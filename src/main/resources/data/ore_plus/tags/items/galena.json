@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "ore_plus:deepslate_galena_ore",
+    "ore_plus:galena_dust",
     "ore_plus:galena_ore"
   ]
 }

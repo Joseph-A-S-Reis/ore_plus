@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:MagnetiteDust"
+        "value": "TAG:ore_plus:magnetite"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:MagnetiteDust"
+      "value": "TAG:ore_plus:magnetite"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Magnetite"

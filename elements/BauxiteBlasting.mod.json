@@ -4,10 +4,10 @@
   "definition": {
     "recipeType": "Blasting",
     "recipeRetstackSize": 1,
-    "group": "",
+    "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:Bauxite"
+        "value": "TAG:ore_plus:bauxite"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:Bauxite"
+      "value": "TAG:ore_plus:bauxite"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Bauxite"

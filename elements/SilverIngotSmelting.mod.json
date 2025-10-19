@@ -5,14 +5,18 @@
     "recipeType": "Smelting",
     "recipeRetstackSize": 1,
     "group": "ore_plus",
-    "unlockingItems": [],
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:silver"
+      }
+    ],
     "cookingBookCategory": "MISC",
-    "xpReward": 1.0,
+    "xpReward": 0.3,
     "cookingTime": 200,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:RawSilver"
+      "value": "TAG:ore_plus:silver"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:SilverIngot"

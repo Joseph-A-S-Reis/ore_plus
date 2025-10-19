@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:CinnabarDust"
+        "value": "TAG:ore_plus:cinnabar"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:CinnabarDust"
+      "value": "TAG:ore_plus:cinnabar"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Cinnabar"

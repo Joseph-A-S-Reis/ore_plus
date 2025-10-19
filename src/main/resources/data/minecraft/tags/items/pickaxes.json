@@ -1,9 +1,11 @@
 {
   "replace": false,
   "values": [
+    "ore_plus:bismuth_pickaxe",
     "ore_plus:steel_pickaxe",
     "ore_plus:void_tool",
     "ore_plus:pyralite_pickaxe",
+    "ore_plus:osmium_pickaxe",
     "ore_plus:chromium_pickaxe",
     "ore_plus:peridot_pickaxe",
     "ore_plus:tin_pickaxe",
@@ -29,9 +31,11 @@
     "ore_plus:cobalt_pickaxe",
     "ore_plus:titanium_pickaxe",
     "ore_plus:obsidianite_pickaxe",
+    "ore_plus:kyanite_pickaxe",
     "ore_plus:celestium_pickaxe",
     "ore_plus:palladium_pickaxe",
     "ore_plus:topazgem_pickaxe",
+    "ore_plus:spinel_pickaxe",
     "ore_plus:gadolinium_pickaxe",
     "ore_plus:zircongem_pickaxe",
     "ore_plus:morganite_pickaxe",

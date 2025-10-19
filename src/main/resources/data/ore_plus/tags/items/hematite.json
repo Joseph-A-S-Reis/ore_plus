@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "ore_plus:hematite_ore",
+    "ore_plus:hematite_dust",
     "ore_plus:deepslate_hematite_ore"
   ]
 }

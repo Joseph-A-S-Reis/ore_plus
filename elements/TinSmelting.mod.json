@@ -5,14 +5,18 @@
     "recipeType": "Smelting",
     "recipeRetstackSize": 1,
     "group": "ore_plus",
-    "unlockingItems": [],
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:tin"
+      }
+    ],
     "cookingBookCategory": "MISC",
-    "xpReward": 0.5,
+    "xpReward": 0.3,
     "cookingTime": 200,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:RawTin"
+      "value": "TAG:ore_plus:tin"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Tin"

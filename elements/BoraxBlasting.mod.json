@@ -7,7 +7,7 @@
     "group": "ore_plus",
     "unlockingItems": [
       {
-        "value": "CUSTOM:BoraxDust"
+        "value": "TAG:ore_plus:borax"
       }
     ],
     "cookingBookCategory": "MISC",
@@ -16,7 +16,7 @@
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:BoraxDust"
+      "value": "TAG:ore_plus:borax"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Borax"

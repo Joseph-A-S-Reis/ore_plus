@@ -1,17 +1,24 @@
 {
   "replace": false,
   "values": [
+    "ore_plus:aetherium",
+    "ore_plus:alexandrite",
+    "ore_plus:voidstone",
+    "ore_plus:peridot",
+    "ore_plus:aetherium_star",
+    "ore_plus:opal",
+    "ore_plus:celestium",
+    "ore_plus:aquamarine",
     "ore_plus:zircon_gem",
     "ore_plus:tanzanite",
     "ore_plus:sapphire",
     "ore_plus:garnet",
-    "ore_plus:alexandrite",
-    "ore_plus:peridot",
     "ore_plus:morganite",
+    "ore_plus:spinel",
     "ore_plus:ruby",
     "ore_plus:rhodochrosite",
     "ore_plus:fluorite",
-    "ore_plus:topaz",
-    "ore_plus:aquamarine"
+    "ore_plus:kyanite",
+    "ore_plus:topaz"
   ]
 }

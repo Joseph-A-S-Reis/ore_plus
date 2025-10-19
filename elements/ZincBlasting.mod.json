@@ -5,14 +5,18 @@
     "recipeType": "Blasting",
     "recipeRetstackSize": 1,
     "group": "ore_plus",
-    "unlockingItems": [],
+    "unlockingItems": [
+      {
+        "value": "TAG:ore_plus:zinc"
+      }
+    ],
     "cookingBookCategory": "MISC",
-    "xpReward": 0.8,
+    "xpReward": 0.3,
     "cookingTime": 100,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "CUSTOM:RawZinc"
+      "value": "TAG:ore_plus:zinc"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:Zinc"

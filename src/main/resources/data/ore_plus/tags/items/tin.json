@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "ore_plus:deepslate_tin_ore",
+    "ore_plus:raw_tin",
+    "ore_plus:tin_ore"
+  ]
+}

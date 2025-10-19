@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "ore_plus:malachite_ore",
-    "ore_plus:deepslate_malachite_ore"
+    "ore_plus:deepslate_malachite_ore",
+    "ore_plus:malachite_dust"
   ]
 }
